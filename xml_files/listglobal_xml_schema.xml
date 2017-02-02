@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Adverts>
+<Advert>
+  <AdvertId>48672</AdvertId>
+  <CustomerType>Professional</CustomerType>
+  <AdvertType>Sale</AdvertType>
+  <GoodType>Flat</GoodType>
+  <PublicationDate>2014-11-09</PublicationDate>
+  <Rooms>3</Rooms>
+  <Bedrooms>0</Bedrooms>
+  <LivingArea>55</LivingArea>
+  <Descriptions>
+    <Description Language="it">A soli 50 mt dalla piazzetta nell' affascinante centro storico di Capri ( di fronte al ristorante       " Mammà " , ex " da Gemma " ) al primo piano appartamento di oltre 50 mq ristrutturato composto da ingresso , saloncino , camera da letto . cucinotto , ampio servizio , terrazzo di copertura con accesso da scala interna all' immobile</Description>
+  </Descriptions>
+  <Photos>
+    <Photo>http://TEST.it/sites/default/files/CAPRI%20SERAFINA%201.jpg?date=03/06/2015</Photo>
+  </Photos>
+  <Price>0</Price>
+  <PriceCurrency>EUR</PriceCurrency>
+  <Address>VIA MADRE SERAFINA, Capri, Napoli, Italia</Address>
+  <PostalCode>80073</PostalCode>
+  <City>Capri</City>
+  <State>Napoli</State> 
+  <Country>IT</Country>
+  <Geolocation>
+    <Latitude>40.8517746</Latitude>
+    <Longitude>14.2681244</Longitude>
+    <Accuracy>1</Accuracy>
+  </Geolocation>
+  <Contact>
+    <SiteAccountId>AG239</SiteAccountId>
+    <CorporateName>veneruso immobiliare</CorporateName>
+    <FirstName>TEST</FirstName>
+    <LastName>TEST TEST</LastName>
+    <MobilePhone>08119338258</MobilePhone>
+    <Email>TEST@test.com</Email>
+    <Website>http://www.TEST.it</Website>
+    <Address>via g. gigante 80</Address>
+    <PostalCode>80134</PostalCode>
+    <City>Napoli</City>
+    <Country>IT</Country>
+    <Photo>http://TEST.it/sites/default/files/VENERUSO%20LOGO%201.jpg</Photo>
+    <AgentId>AG239-1</AgentId>
+    <AgentEmail>TEST@test.com</AgentEmail>
+    <AgentLandPhone>123456789</AgentLandPhone>
+  </Contact>
+  <Bathrooms>1</Bathrooms>
+  <Garages>0</Garages>
+</Advert>
+<Advert>
+  <AdvertId>44498</AdvertId>
+  <CustomerType>Professional</CustomerType>
+  <AdvertType>Sale</AdvertType>
+  <GoodType>Villa</GoodType>
+  <PublicationDate>2014-11-08</PublicationDate>
+  <Rooms>5</Rooms>
+  <Bedrooms>0</Bedrooms>
+  <LivingArea>150</LivingArea>
+  <Descriptions>
+    <Description Language="it">Ad Anacapri , in via vecchia del faro , a pochi metri dal centro , villa singola di oltre 150 mq su due livelli in ottime condizioni composta da : ingresso , salone doppio , cucina , camera e servizio al piano terra oltre tre ampie camere da letto e servizi al primo livello , ampi terrazzi panoramici a livello ,piccolo giardino e posto auto. </Description>
+  </Descriptions>
+  <Photos>
+    <Photo>http://TEST.it/sites/default/files/ANACAPRI%20VIA%20V.%20FARO%200%20-%20Copia.jpg</Photo>
+  </Photos>
+  <Price>0</Price>
+  <PriceCurrency>EUR</PriceCurrency>
+  <Address>via vecchia faro, Anacapri, Napoli, Italia</Address>
+  <PostalCode>80071</PostalCode>
+  <City>Anacapri</City>
+  <State>Napoli</State> 
+  <Country>IT</Country>
+  <Geolocation>
+    <Latitude>40.5489918</Latitude>
+    <Longitude>14.2137737</Longitude>
+  </Geolocation>
+  <Contact>
+    <SiteAccountId>AG239</SiteAccountId>
+    <CorporateName>TEST immobiliare</CorporateName>
+    <FirstName>TEST</FirstName>
+    <LastName>TEST TEST</LastName>
+    <MobilePhone>08119338258</MobilePhone>
+    <Email>TEST@TEST.com</Email>
+    <Website>http://www.TEST.it</Website>
+    <Address>via g. gigante 80</Address>
+    <PostalCode>80134</PostalCode>
+    <City>Napoli</City>
+    <Country>IT</Country>
+    <Photo>http://TEST.it/sites/default/files/VENERUSO%20LOGO%201.jpg</Photo>
+    <AgentId>AG239-2</AgentId>
+    <AgentEmail>TEST@test.com</AgentEmail>
+    <AgentLandPhone>123456789</AgentLandPhone>
+  </Contact>
+  <Bathrooms>3</Bathrooms>
+  <Garages>1</Garages>
+</Advert>
+</Adverts>
