@@ -2,6 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     awesome_print (1.7.0)
+    curb (0.9.3)
+    json (2.0.2)
     mini_portile2 (2.1.0)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
@@ -11,6 +13,8 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
+  curb (~> 0.9.3)
+  json (~> 2.0, >= 2.0.2)
   nokogiri
 
 BUNDLED WITH

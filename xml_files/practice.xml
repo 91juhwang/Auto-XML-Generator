@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Adverts>
+  <Advert>
+    <Contact>
+      <SiteAccountId>Awes</SiteAccountId>
+      <CustomerType>Professional</CustomerType>
+      <CorporateName>dfd</CorporateName>
+      <FirstName>df</FirstName>
+      <LastName>d</LastName>
+      <LandPhone>df</LandPhone>
+      <MobilePhone>Awesome widget</MobilePhone>
+      <email>Awesome w</email>
+      <AgentLandPhone>123</AgentLandPhone>
+      <AgentId>id</AgentId>
+      <AgentEmail>email</AgentEmail>
+      <Website>Awesome widget</Website>
+      <Address>Awesome widget</Address>
+      <PostalCode>Awesome widget</PostalCode>
+      <City>df</City>
+      <Country>df</Country>
+      <Photo>link</Photo>
+      <SpokenLanguages>en</SpokenLanguages>
+    </Contact>
+    <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>df</AdvertId>
+    <Reference>saf</Reference>
+    <CustomerType>10</CustomerType>
+    <AdvertType>Awesome widget</AdvertType>
+    <GoodType>Awesome widget</GoodType>
+    <PublicationDate>Awesome widget</PublicationDate>
+    <Rooms>Awesome widget</Rooms>
+    <Bedrooms>Awesome widget</Bedrooms>
+    <LivingArea>Awesome widget</LivingArea>
+    <Descriptions>
+      <Description language="en">descriptions here</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>link</Photo>
+    </Photos>
+    <Price>Awesome widget</Price>
+    <PriceCurrency>Awesome widget</PriceCurrency>
+    <PriceType/>
+    <IsAuction>0</IsAuction>
+    <Address>Awesome widget</Address>
+    <PostalCode>Awesome widget</PostalCode>
+    <City>New York</City>
+    <State>NY</State>
+    <Country>US</Country>
+    <Geolocation>
+      <Latitude>123</Latitude>
+      <Longitude>123</Longitude>
+    </Geolocation>
+    <Furnished>true</Furnished>
+    <Lifts>building acces</Lifts>
+    <ConstructionYear>year built</ConstructionYear>
+    <Bathrooms>12</Bathrooms>
+  </Advert>
+</Adverts>
