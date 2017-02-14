@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Adverts>
+  <Advert>
+    <AdvertId>123123123123123</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <Nested foo="bar" hello="world">
+      <total>99</total>
+      <total>98</total>
+    </Nested>
+    <Descriptions>
+      <Description languages="en">jameshwang Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex expedita autem, accusamus optio, iste unde quia sapiente, quibusdam vel minima, doloribus assumenda totam porro ullam odio excepturi hic in. Quos.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>url</Photo>
+      <Photo>url2</Photo>
+      <Photo>url3</Photo>
+    </Photos>
+    <BedRoom>asdf</BedRoom>
+  </Advert>
+</Adverts>

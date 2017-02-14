@@ -21,11 +21,11 @@ def listings
       Rooms: listing['no_of_rooms'],
       Bedrooms: listing['no_of_bedrooms'],
       LivingArea: listing['floor_space'],
-      Descriptions: [{
-        Description: listing['broker_summary']
-      }],
-      Photos: [{
-        }],
+      Descriptions: [
+        { Description: listing['broker_summary'] },
+        { Description: 'sdf' }
+      ],
+      Photos: [],
       building_id: listing["building"]["id"],
       building_name: listing["building"]["name"],
       building_slug: listing["building"]["slug"],
@@ -44,10 +44,10 @@ def listings
       desc: listing["broker_summary"].gsub("\n", "<br>").gsub("\r", "<br>").strip.gsub(/<br>(<br>\s*)+/,'<br><br>'),
     }
     listing['images'].each do |image|
-      photo_hash = {}
-      photo_hash[:Photo] = image['url']
-      @listing_hash[:Photos][0] << image['url']
+      @photo_hash[:Photo] = {}
+      @photo_hash[:Photo] = image['url']
     end
+  # @listing_hash[:Photos] << @photo_hash
   @listings << @listing_hash
   end
   # ap listings_json
