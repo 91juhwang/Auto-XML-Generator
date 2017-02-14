@@ -25,17 +25,32 @@ data = [
     PriceCurrency: "Awesome widget" }    
 ]
 
-def process_array(label, array, xml)
+def process_array(label,array,xml)
   array.each do |hash|
-    kids, attrs = hash.partition{ |k, v| v.is_a?(Array) }
-    xml.send(label, Hash[attrs]) do
-      kids.each{ |k, v| process_array(k, v, xml) }
+    xml.send(label) do # Create an element named for the label
+      hash.each do |key,value|
+        if value.is_a?(Array)
+          process_array(key,value,xml) # Recurse
+        else
+          xml.send(key,value) # Create <key>value</key> (using variables)
+        end
+      end
     end
   end
 end
 
 builder = Nokogiri::XML::Builder.new do |xml|
-  xml.Adverts { process_array('Advert', data, xml) }
+  xml.root do # Wrap everything in one element.
+    process_array('category',data,xml)  # Start the recursion with a custom name.
+  end
 end
 
 puts builder.to_xml
+
+builder = Nokogiri::XML::Builder.new do |xml|
+  xml.Adverts { process_array('Advert', data, xml) }
+end
+
+hash = { '@attributes' => { 'languages' => 'en' } }
+value = hash.fetch('@attributes', {})
+puts value.delete('@attributes')

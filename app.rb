@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'nokogiri'
 require 'awesome_print'
 require 'curb'
 require 'json'
@@ -13,106 +12,99 @@ def listings
   curl.perform
   listings_json = JSON.parse(curl.body_str)['listings']
   listings_json.each do |listing|
+     # call api for the specific listing
+    get_building_locations listing['building']['id']
+    get_promo_listing listing['id']
+
     @listing_hash = {
-      AdvertId: listing["id"],
-      CustomerType: 'Private',
-      Reference: 'abc',
-      AdvertType: listing['sale_rental']['label'],
-      GoodType: listing['unit_type'],
-      PublicationDate: listing['listed_at'],
-      Rooms: listing['no_of_rooms'],
-      Bedrooms: listing['no_of_bedrooms'],
-      LivingArea: listing['floor_space'],
-      Descriptions: [
-        { Description: listing['broker_summary'] },
-        { Description: 'sdf' }
-      ],
-      Photos: [],
-      building_id: listing["building"]["id"],
-      building_name: listing["building"]["name"],
-      building_slug: listing["building"]["slug"],
-      sale_price: delimiter(listing["sale_price"].to_i),
-      rent_price: delimiter([listing["rent_cost"].to_i, listing["furnish_rent_cost"].to_i].max),
-      type: listing["ownership_type"]["label"],
-      cc: delimiter(listing["common_charges"].to_i),
-      re_tax: delimiter(listing["re_taxes"].to_i),
-      maintenance: delimiter(listing["maintenance"].to_i),
-      tax_deduction: delimiter(listing["tax_deduction"].to_i),
-      br: listing["no_of_bedrooms"],
-      ba: listing["no_of_baths"],
-      sqft: delimiter(listing["floor_space"].to_i),
-      status: listing["status"],
-      sale_rental: listing["sale_rental"]["label"],
-      desc: listing["broker_summary"].gsub("\n", "<br>").gsub("\r", "<br>").strip.gsub(/<br>(<br>\s*)+/,'<br><br>'),
-    }
-    listing['images'].each do |image|
-      @photo_hash[:Photo] = {}
-      @photo_hash[:Photo] = image['url']
-    end
-  # @listing_hash[:Photos] << @photo_hash
-  @listings << @listing_hash
-  end
-  # ap listings_json
-  # ap @listings
-end
-# Time.now.strftime("%d/%m/%Y")
-data = [
-  { Adverts: {
       Advert: {
-        AdvertId: '123123123123123',
+        SiteAccountId: 'elegran',
+        AdvertId: listing['id'],
         CustomerType: 'Private',
-        Nested: { 'total' => [99, 98], '@attributes' => {'foo' => 'bar', 'hello' => 'world'} },
+        AdvertType: listing['sale_rental']['label'],
+        GoodType: listing['unit_type'],
+        PublicationDate: listing['listed_at'],
+        Rooms: listing['no_of_rooms'],
+        Bedrooms: listing['no_of_bedrooms'],
+        LivingArea: listing['floor_space'],
         Descriptions: { 'Description' =>
-          [ '@text' => 'jameshwang Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex expedita autem, accusamus optio, iste unde quia sapiente, quibusdam vel minima, doloribus assumenda totam porro ullam odio excepturi hic in. Quos.', '@attributes' => { 'languages' => 'en' }
+          [
+            '@text' => pretty_summary(listing['broker_summary']), '@attributes' => { 'languages' => 'en' }
           ]
         },
-        Photos: { Photo: ['url', 'url2', 'url3'] },
-        BedRoom: 'asdf'
+        Photos: { Photo: [] },
+        Price: listing['price'],
+        PriceCurrency: 'USD',
+        IsAuction: 0,
+        Country: 'US',
+        HideAddress: false, 
+        Furnished: listing['furnished'],
+        Address: @building_json['address'],
+        PostalCode: @building_json['zip_code'],
+        State: @building_json['state'],
+        City: @building_json['city'],
+        Geolocation: { 'Latitude' => @building_json['coordinates'][0], 'Longitude' => @building_json['coordinates'][1] },
+        Bathrooms: listing['no_of_bths'],
+        Nested: { 'total' => [99, 98], '@attributes' => {'foo' => 'bar', 'hello' => 'world'} },
+        Contact: {
+          SiteAccountId: 'elegran',
+          CustomerType: 'Pricate',
+          CorporateName: 'Elegran Real Estate and Development',
+          FirstName: @promo_listing_json[0]['refs'][0]['promotable_item']['first_name'],
+          LastName: @promo_listing_json[0]['refs'][0]['promotable_item']['last_name'],
+          LandPhone: '+1'+@promo_listing_json[0]['refs'][0]['promotable_item']['office_number'],
+          MobilePhone: '+1'+@promo_listing_json[0]['refs'][0]['promotable_item']['cell'],
+          Email: 'info@elegran.com',
+          AgentId: @promo_listing_json[0]['refs'][0]['promotable_item']['id'],
+          AgentEmail: @promo_listing_json[0]['refs'][0]['promotable_item']['email'],
+          Website: "https://www.elegran.com/agents/#{@promo_listing_json[0]['refs'][0]['promotable_item']['slug']}",
+          Address: '353 Lexington Avenue',
+          PostalCode: '10016',
+          City: 'New York',
+          Country: 'US',
+          Photo: @promo_listing_json[0]['refs'][0]['promotable_item']['profile_thumbnail']['url'],
+          SpokenLanguages: 'English'
+        }
       }
     }
-  }
-]
-
-def generate_xml(data, parent = false, opt = {})
-  return if data.to_s.empty?
-  return unless data.is_a?(Hash)
-  unless parent
-    # assume that if the hash has a single key that it should be the root
-    root, data = data.length == 1 ? data.shift : ['root', data]
-    builder = Nokogiri::XML::Builder.new(opt) do |xml|
-      xml.send(root) {
-        generate_xml(data, xml)
-      }
+    if @building_json['year_build']
+      @listing_hash[:Advert][:ConstructionYear] = @building_json['year_build']
     end
-    File.open('./xml_files/Elegran_adverts.xml', 'w') do |file|
-      the_file = builder.to_xml
-      puts the_file
-      return file.write(the_file)
+
+    unless listing['apt_number'].nil?
+      @listing_hash[:Advert][:Reference] = @building_json['address']+listing['apt_number']
+    end
+
+    if listing['sale_rental']['label'] == 'Rental'
+      @listing_hash[:Advert][:PriceType] = 'Monthly'
+    end
+    
+    if listing['maintenance'].nil?
+      @listing_hash[:Advert][:ServiceCharge] = 0
+    else
+      @listing_hash[:Advert][:ServiceCharge] = listing['maintenance']
+    end
+
+    listing['images'].each do |img|
+      @listing_hash[:Advert][:Photos][:Photo] << img['url']+"?#{Time.now.strftime("%d/%m/%Y")}"
+    end
+
+    @listings << @listing_hash
+  end
+end
+
+listings
+
+builder = Nokogiri::XML::Builder.new do |xml|
+  xml.send('Adverts') do
+    @listings.each do |hash|
+      generate_xml(hash, xml)
     end
   end
-  data.each { |label, value|
-    if value.is_a?(Hash)
-      attrs = value.fetch('@attributes', {})
-      # also passing 'text' as a key makes nokogiri do the same thing
-      text = value.fetch('@text', '') 
-      parent.send(label, attrs, text) { 
-        value.delete('@attributes')
-        value.delete('@text')
-        generate_xml(value, parent)
-      }
-    elsif value.is_a?(Array)
-      value.each { |el|
-        # lets trick the above into firing so we do not need to rewrite the checks
-        el = { label => el }
-        generate_xml(el, parent) 
-      }
-    else
-      parent.send(label, value)
-    end
-  }
 end
 
-data.each do |hash| 
-  generate_xml(hash)
+File.open('./xml_files/Elegran_adverts.xml', 'w') do |file|
+  the_file = builder.to_xml
+  # puts the_file
+  file.write(the_file)
 end
-
