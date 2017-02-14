@@ -105,6 +105,5 @@ end
 
 File.open('./xml_files/Elegran_adverts.xml', 'w') do |file|
   the_file = builder.to_xml
-  # puts the_file
   file.write(the_file)
 end

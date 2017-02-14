@@ -48,15 +48,3 @@ builder = Nokogiri::XML::Builder.new do |xml|
     process_array('Advert', @listings, xml) # Start the recursion with a custom name.
   end
 end
-
-# Creating a xml file with proper nodes and information
-File.open('./xml_files/Elegran_adverts.xml', 'w+') do |file|
-  the_file = builder.to_xml
-  file.write(the_file)
-end
-
-# Adding attributes section to the exisitng xml file
-@doc = Nokogiri::XML(File.open('./xml_files/Elegran_adverts.xml'))
-description = @doc.xpath('//Adverts/Advert/Descriptions/Description')
-description.map { |desc| desc['new_attribute'] = 'YAS!!' }
-File.open("./xml_files/Elegran_adverts.xml", 'w') {|f| f.puts @doc.to_xml }
