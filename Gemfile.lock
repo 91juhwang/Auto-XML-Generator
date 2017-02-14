@@ -3,6 +3,7 @@ GEM
   specs:
     awesome_print (1.7.0)
     curb (0.9.3)
+    dotenv (2.1.2)
     json (2.0.2)
     mini_portile2 (2.1.0)
     nokogiri (1.7.0.1)
@@ -14,6 +15,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   curb (~> 0.9.3)
+  dotenv
   json (~> 2.0, >= 2.0.2)
   nokogiri
 

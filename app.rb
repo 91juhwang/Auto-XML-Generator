@@ -4,11 +4,12 @@ require 'awesome_print'
 require 'curb'
 require 'json'
 require './helper'
+require 'dotenv/load'
 
 @listings = []
 def listings
   # Calling for top 50 sales listings that are vowed to Elegran
-  curl = Curl::Easy.new("https://api.datahubus.com/v1/listings?vow_company.name[contains]=Elegran%20Real%20Estate&sale_rental.code=S&sort_by[price]=desc&status[in]%5B%5D=active&auth_token=146d228115b1edd06430cce5056139a0&page=1&per=50")
+  curl = Curl::Easy.new("https://api.datahubus.com/v1/listings?vow_company.name[contains]=Elegran%20Real%20Estate&sale_rental.code=S&sort_by[price]=desc&status[in]%5B%5D=active&auth_token=#{ENV['AUTH_TOKEN']}&page=1&per=50")
   curl.perform
   listings_json = JSON.parse(curl.body_str)['listings']
   listings_json.each do |listing|
@@ -54,22 +55,22 @@ def listings
   # ap listings_json
   # ap @listings
 end
-
+# Time.now.strftime("%d/%m/%Y")
 data = [
-  { Adverts: { 
+  { Adverts: {
       Advert: {
         AdvertId: '123123123123123',
         CustomerType: 'Private',
         Nested: { 'total' => [99, 98], '@attributes' => {'foo' => 'bar', 'hello' => 'world'} },
-        Descriptions: { 'Description' => 
+        Descriptions: { 'Description' =>
           [ '@text' => 'jameshwang Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex expedita autem, accusamus optio, iste unde quia sapiente, quibusdam vel minima, doloribus assumenda totam porro ullam odio excepturi hic in. Quos.', '@attributes' => { 'languages' => 'en' }
           ]
         },
         Photos: { Photo: ['url', 'url2', 'url3'] },
         BedRoom: 'asdf'
-      } 
+      }
     }
-  }  
+  }
 ]
 
 def generate_xml(data, parent = false, opt = {})
@@ -77,13 +78,13 @@ def generate_xml(data, parent = false, opt = {})
   return unless data.is_a?(Hash)
   unless parent
     # assume that if the hash has a single key that it should be the root
-    root, data = (data.length == 1) ? data.shift : ["root", data]
+    root, data = data.length == 1 ? data.shift : ['root', data]
     builder = Nokogiri::XML::Builder.new(opt) do |xml|
       xml.send(root) {
         generate_xml(data, xml)
       }
     end
-    File.open('./xml_files/practice3.xml', 'w') do |file|
+    File.open('./xml_files/Elegran_adverts.xml', 'w') do |file|
       the_file = builder.to_xml
       puts the_file
       return file.write(the_file)
@@ -114,5 +115,4 @@ end
 data.each do |hash| 
   generate_xml(hash)
 end
-
 
