@@ -8,7 +8,7 @@ require 'dotenv/load'
 @listings = []
 def listings
   # Calling for top 50 sales listings that are vowed to Elegran
-  curl = Curl::Easy.new("https://api.datahubus.com/v1/listings?vow_company.name[contains]=Elegran%20Real%20Estate&sale_rental.code=S&sort_by[price]=desc&status[in]%5B%5D=active&auth_token=#{ENV['AUTH_TOKEN']}&page=1&per=50")
+  curl = Curl::Easy.new("https://api.datahubus.com/v1/listings?vow_company.name[contains]=Elegran%20Real%20Estate&sale_rental.code=S&sort_by[price]=desc&status[in]%5B%5D=active&auth_token=#{ENV['AUTH_TOKEN']}&page=1&per=20")
   curl.perform
   listings_json = JSON.parse(curl.body_str)['listings']
   listings_json.each do |listing|
