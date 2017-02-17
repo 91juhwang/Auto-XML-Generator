@@ -1,3 +1,11 @@
+def check_goodtype(unit_type)
+  if unit_type == 'apartment'
+    unit_type = 'Flat'
+  else
+    unit_type = 'House'
+  end
+end
+
 def pretty_summary(text)
   text.gsub("\n", "<br>")
       .gsub("\r", "<br>")
@@ -7,7 +15,7 @@ end
 def get_building_locations(buildingid)
   curl = Curl::Easy.new("https://api.datahubus.com/v1/buildings/#{buildingid}?auth_token=#{ENV['AUTH_TOKEN']}")
   curl.perform
-  @building_json = JSON.parse(curl.body_str)['building']['locations'][0]
+  @building_json = JSON.parse(curl.body_str)['building']
 end
 
 def get_promo_listing(listingid)

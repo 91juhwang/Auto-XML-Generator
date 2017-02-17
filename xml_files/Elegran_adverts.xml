@@ -1,17 +1,17 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Adverts>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5892c431faae1d3a8e8dfb96</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>building</GoodType>
+    <GoodType>House</GoodType>
     <PublicationDate>2017-02-01T00:00:00.000Z</PublicationDate>
     <Rooms>10.0</Rooms>
     <Bedrooms>5</Bedrooms>
     <LivingArea>538.8374</LivingArea>
     <Descriptions>
-      <Description languages="en">147 E. 63rd Street is a five-story gated limestone townhouse that has recently gone through a luxurious cosmetic, mechanical, and structural renovation. The house features a 30-foot garden, two terraces, an elevator that serves all five floors, and a state-of-the-art Crestron system.&lt;br&gt;&lt;br&gt;The ground floor features an elegant entry hallway and foyer, a den with custom built-ins, and a large eat-in kitchen that opens up to the landscaped garden. The stunning parlor floor ceilings soar beyond 11 feet high, where a new entertaining wet bar connects the formal dining room or library to the spacious living room with a wood-burning fireplace.&lt;br&gt;&lt;br&gt;The newly renovated master suite awaits you on the third floor. A glamorous Poliform walk-in closet connects the bedroom to the grand master bathroom which includes a wood burning fire place, Kohler appliances, Dornbracht hardware, Calacatta marble, and gradient glass. The fourth floor houses two bedrooms, two bathrooms, plenty of closet space, and laundry. Topping the building on the fifth floor are two more bedrooms &#x97; one with its own terrace. The basement features an additional laundry room, powder room, mechanicals, and several storage areas.&lt;br&gt;&lt;br&gt;147 E. 63rd Street is conveniently located in close proximity to Equinox, Soul Cycle, the subway and some of best restaurants in Manhattan. Living in this pristine townhouse is a once-in-a-lifetime opportunity.&lt;br&gt;&lt;br&gt;Can be purchased fully furnished.</Description>
+      <Description languages="en">147 E. 63rd Street is a five-story gated limestone townhouse that has recently gone through a luxurious cosmetic, mechanical, and structural renovation. The house features a 30-foot garden, two terraces, an elevator that serves all five floors, and a state-of-the-art Crestron system.&lt;br&gt;&lt;br&gt;The ground floor features an elegant entry hallway and foyer, a den with custom built-ins, and a large eat-in kitchen that opens up to the landscaped garden. The stunning parlor floor ceilings soar beyond 11 feet high, where a new entertaining wet bar connects the formal dining room or library to the spacious living room with a wood-burning fireplace.&lt;br&gt;&lt;br&gt;The newly renovated master suite awaits you on the third floor. A glamorous Poliform walk-in closet connects the bedroom to the grand master bathroom which includes a wood burning fire place, Kohler appliances, Dornbracht hardware, Calacatta marble, and gradient glass. The fourth floor houses two bedrooms, two bathrooms, plenty of closet space, and laundry. Topping the building on the fifth floor are two more bedrooms  one with its own terrace. The basement features an additional laundry room, powder room, mechanicals, and several storage areas.&lt;br&gt;&lt;br&gt;147 E. 63rd Street is conveniently located in close proximity to Equinox, Soul Cycle, the subway and some of best restaurants in Manhattan. Living in this pristine townhouse is a once-in-a-lifetime opportunity.&lt;br&gt;&lt;br&gt;Can be purchased fully furnished.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58935e/9e40b1/7f131f/645606/DSC_8031.jpg?17/02/2017</Photo>
@@ -61,14 +61,14 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
-    <ServiceCharge>0</ServiceCharge>
+    <ConstructionYear>1899</ConstructionYear>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>584f87787bded42a765863c8</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-12-12T00:00:00.000Z</PublicationDate>
     <Rooms>9.0</Rooms>
     <Bedrooms>5</Bedrooms>
@@ -125,21 +125,22 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2016</ConstructionYear>
     <Reference>56 LEONARD STAPT 31ABWEST</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>3872.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>57bd327733014645764f3ba9</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-08-23T00:00:00.000Z</PublicationDate>
     <Rooms>5.0</Rooms>
     <Bedrooms>3</Bedrooms>
     <LivingArea>202.249831</LivingArea>
     <Descriptions>
-      <Description languages="en">NOTE: This unit is also offered as a combination with 31A-WEST totaling 3,800 sqft of North, West and South views. Please call for more information.&lt;br&gt;&lt;br&gt;Spacious 3 bedroom 3.5 bath located in Tribeca with North and West exposures, boasting astounding views of the Hudson River and cityscape.&lt;br&gt;&lt;br&gt;31B-West features 11&#x92; ceilings, floor to ceiling windows and two private balconies. Find custom interiors by Herzog &amp; de Meuron, such as kitchen islands and countertops. The kitchen is equipped with Sub-Zero and Miele appliances. Windowed master bath has travertine, marble, and radiant heated floors. The Residence also features white oak flooring, a 4-pipe heating/cooling system, and Maytag vented washer/dryer.&lt;br&gt;&lt;br&gt;56 Leonard Street is designed by Pritzker Prize-winning architects, Herzog &amp; de Meuron. This 60-story ,145 unit condominium holds 17,000 sqft of amenities, including a 75&#x92; lap pool with sundeck, gym, screening room, lounge, private dining room, and playroom. The architectural feat, 56 Leonard Street, is in close proximity to 1, 2, 3, A, C, and E trains.&lt;br&gt;10 YEAR TAX ABATEMENT&lt;br&gt;&lt;br&gt;Video of the listing: https://www.youtube.com/watch?v=V4Eh68kAnq0</Description>
+      <Description languages="en">NOTE: This unit is also offered as a combination with 31A-WEST totaling 3,800 sqft of North, West and South views. Please call for more information.&lt;br&gt;&lt;br&gt;Spacious 3 bedroom 3.5 bath located in Tribeca with North and West exposures, boasting astounding views of the Hudson River and cityscape.&lt;br&gt;&lt;br&gt;31B-West features 11 ceilings, floor to ceiling windows and two private balconies. Find custom interiors by Herzog &amp; de Meuron, such as kitchen islands and countertops. The kitchen is equipped with Sub-Zero and Miele appliances. Windowed master bath has travertine, marble, and radiant heated floors. The Residence also features white oak flooring, a 4-pipe heating/cooling system, and Maytag vented washer/dryer.&lt;br&gt;&lt;br&gt;56 Leonard Street is designed by Pritzker Prize-winning architects, Herzog &amp; de Meuron. This 60-story ,145 unit condominium holds 17,000 sqft of amenities, including a 75 lap pool with sundeck, gym, screening room, lounge, private dining room, and playroom. The architectural feat, 56 Leonard Street, is in close proximity to 1, 2, 3, A, C, and E trains.&lt;br&gt;10 YEAR TAX ABATEMENT&lt;br&gt;&lt;br&gt;Video of the listing: https://www.youtube.com/watch?v=V4Eh68kAnq0</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58073e/f80a3f/041f08/4a27b0/DSC_1318_final-3.jpg?17/02/2017</Photo>
@@ -150,7 +151,6 @@
       <Photo>https://images.datahubus.com/core_data/image/file/58073e/f86eac/321f08/86bf10/DSC_1245.jpg?17/02/2017</Photo>
       <Photo>https://images.datahubus.com/core_data/image/file/58073e/f8bd5b/e11f08/ad38a6/DSC_1208.jpg?17/02/2017</Photo>
       <Photo>https://images.datahubus.com/core_data/image/file/58073e/f801f6/b01f08/38441e/DSC_1299.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58539c/ffce6b/192da4/ecf473/764cdfda79d07d30115a03b4e406038d.jpg?17/02/2017</Photo>
     </Photos>
     <Price>7350000</Price>
     <PriceCurrency>USD</PriceCurrency>
@@ -186,21 +186,22 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2016</ConstructionYear>
     <Reference>56 LEONARD STAPT 31BWEST</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>2211.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>54ffccb8d5059b2d19c452a9</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2015-03-10T00:00:00.000Z</PublicationDate>
     <Rooms>5.0</Rooms>
     <Bedrooms>3</Bedrooms>
     <LivingArea>206.24466</LivingArea>
     <Descriptions>
-      <Description languages="en">Spacious 3-bedroom, 3-bathroom corner loft is now available in the desirable Downtown by Philippe Starck condo. Over 2,200 square feet of luxury living makes this home a rare gem in the middle of Manhattan's fastest growing neighborhood: The Financial District.&lt;br&gt;&lt;br&gt;The sunlit living room features hardwood maple floors, 11.5 foot ceilings, and a wall of oversized windows overlooking the historic NY Stock Exchange.&lt;br&gt;&lt;br&gt;Enjoy your chef&#x92;s kitchen with top-of-the-line appliances made by Bosch and Viking. The backsplash and countertops are beautifully done with white quartz; and the cabinetry is custom with ample storage.&lt;br&gt;&lt;br&gt;The home features two master bedrooms with en-suite marble bathrooms and amazing closet space throughout!&lt;br&gt;&lt;br&gt;Enjoy the lavish lifestyle of Downtown by Starck with the best white glove amenities in NYC: the building features a beautifully finished business center, bowling alley, theater, sports lounge, recreation room, children's playroom, and a fitness center complete with a yoga/ballet studio, swimming pool, and basketball court. Take advantage of the 5,000 square foot rooftop park with its very own reflecting pool and lounge area.</Description>
+      <Description languages="en">Spacious 3-bedroom, 3-bathroom corner loft is now available in the desirable Downtown by Philippe Starck condo. Over 2,200 square feet of luxury living makes this home a rare gem in the middle of Manhattan's fastest growing neighborhood: The Financial District.&lt;br&gt;&lt;br&gt;The sunlit living room features hardwood maple floors, 11.5 foot ceilings, and a wall of oversized windows overlooking the historic NY Stock Exchange.&lt;br&gt;&lt;br&gt;Enjoy your chefs kitchen with top-of-the-line appliances made by Bosch and Viking. The backsplash and countertops are beautifully done with white quartz; and the cabinetry is custom with ample storage.&lt;br&gt;&lt;br&gt;The home features two master bedrooms with en-suite marble bathrooms and amazing closet space throughout!&lt;br&gt;&lt;br&gt;Enjoy the lavish lifestyle of Downtown by Starck with the best white glove amenities in NYC: the building features a beautifully finished business center, bowling alley, theater, sports lounge, recreation room, children's playroom, and a fitness center complete with a yoga/ballet studio, swimming pool, and basketball court. Take advantage of the 5,000 square foot rooftop park with its very own reflecting pool and lounge area.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58073f/040e09/611f08/1a428f/3.jpg?17/02/2017</Photo>
@@ -245,21 +246,22 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e4e8/f414a6/4f77d2/000059/picture-4004.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1914</ConstructionYear>
     <Reference>15 BROAD STAPT 1410</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1850.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>586b36ef65b8cc7c973330e2</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2017-01-02T00:00:00.000Z</PublicationDate>
     <Rooms>5.0</Rooms>
     <Bedrooms>2</Bedrooms>
     <LivingArea>125.511953</LivingArea>
     <Descriptions>
-      <Description languages="en">This beautiful 2bedroom/2bath offers direct HUDSON RIVER VIEW!&lt;br&gt;&lt;br&gt;Located at 50 Riverside Boulevard, just steps from the Lincoln Center, enjoy access to one of the best amenity packages in Manhattan featuring 40,000sf of amenities such as pool, squash court, full size basketball court, golf simulator, rock climbing wall, bowling, fitness center and much more!!!&lt;br&gt;&lt;br&gt;This spacious 2-Bedroom, 2-Bath residence spans 1,351 SF, boasting elegant interiors by Shamir Shah Design. Oversized windows frame western exposures for Hudson River views and plenty of sunlight.&lt;br&gt;&lt;br&gt;The master bedroom has a large, walk-in closet, and a marble-clad, en-suite bathroom. Fitted with a dark oak vanity and Dornbracht polished chrome fixtures, its spa-like fixtures include a Zuma deep soaking tub and a glass-enclosed shower with rainfall showerhead.&lt;br&gt;&lt;br&gt;Outfitted with dark stained oak cabinetry and Basaltina countertops, the chef&#x92;s kitchen features top-of-the-line Miele and GE appliances. Apartment 12-B also enjoys the convenience of an in-unit Miele washer and fully-vented dryer, as well as a fully vented oven.&lt;br&gt;&lt;br&gt;In addition to the access of 40,000sf of space, One Riverside Park&#x92;s amenities also include a state-of-the-art La Palestra health and fitness center, as well as a formal dining room, media screening room, residents&#x92; lounge, children&#x92;s playroom, and a landscaped courtyard. Please call or email to schedule a private showing today.</Description>
+      <Description languages="en">This beautiful 2bedroom/2bath offers direct HUDSON RIVER VIEW!&lt;br&gt;&lt;br&gt;Located at 50 Riverside Boulevard, just steps from the Lincoln Center, enjoy access to one of the best amenity packages in Manhattan featuring 40,000sf of amenities such as pool, squash court, full size basketball court, golf simulator, rock climbing wall, bowling, fitness center and much more!!!&lt;br&gt;&lt;br&gt;This spacious 2-Bedroom, 2-Bath residence spans 1,351 SF, boasting elegant interiors by Shamir Shah Design. Oversized windows frame western exposures for Hudson River views and plenty of sunlight.&lt;br&gt;&lt;br&gt;The master bedroom has a large, walk-in closet, and a marble-clad, en-suite bathroom. Fitted with a dark oak vanity and Dornbracht polished chrome fixtures, its spa-like fixtures include a Zuma deep soaking tub and a glass-enclosed shower with rainfall showerhead.&lt;br&gt;&lt;br&gt;Outfitted with dark stained oak cabinetry and Basaltina countertops, the chefs kitchen features top-of-the-line Miele and GE appliances. Apartment 12-B also enjoys the convenience of an in-unit Miele washer and fully-vented dryer, as well as a fully vented oven.&lt;br&gt;&lt;br&gt;In addition to the access of 40,000sf of space, One Riverside Parks amenities also include a state-of-the-art La Palestra health and fitness center, as well as a formal dining room, media screening room, residents lounge, childrens playroom, and a landscaped courtyard. Please call or email to schedule a private showing today.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/589b33/331f6b/e01e89/be6464/01%20Living%20Room_final02.jpg?17/02/2017</Photo>
@@ -309,15 +311,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5759cd/8856c7/d86cf8/75087a/Thomas_Duger%20copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2015</ConstructionYear>
     <Reference>50 RIVERSIDE BLVDAPT 12B</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1501.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5875d1ab3d9dd23b48b8ee3f</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-06-22T00:00:00.000Z</PublicationDate>
     <Rooms>7.0</Rooms>
     <Bedrooms>3</Bedrooms>
@@ -371,6 +374,7 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5883a6/91d272/d4412d/a112fb/45a27fe0-9f14-4ca4-a48c-b508c73d9da2_nick-anable-sq.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1930</ConstructionYear>
     <Reference>77 BLEECKER STAPT 102</Reference>
     <ServiceCharge>3434.02</ServiceCharge>
   </Advert>
@@ -379,13 +383,13 @@
     <AdvertId>55026fa1e852732d1e985c62</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-08-23T00:00:00.000Z</PublicationDate>
     <Rooms>4.0</Rooms>
     <Bedrooms>2</Bedrooms>
     <LivingArea>113.062951</LivingArea>
     <Descriptions>
-      <Description languages="en">PRICE REDUCTION !!!&lt;br&gt;Rare Opportunity To Purchase in First Green Luxury Condominium In The Heart Of Murray Hill!&lt;br&gt;&lt;br&gt;2-bedroom/2-bathroom corner apartment with 10&#x92;8 ft ceiling heights that features contemporary kitchen cabinetry, complete with breakfast bar, sitting adjacent to a spacious, sun-flooded living room. The open chef's white glass kitchen is fully equipped with LEED certified Energy Star appliances from Liebherr and Bosch. The Bamboo flooring throughout the apartment adds a warm and timeless feeling.&lt;br&gt;&lt;br&gt;Both the living room, and bedrooms are equipped with window blinds. The spacious master bathroom boasts a simple but elegant design featuring Bianco Dolomiti marble walls, quartzite tile floors, glass mosaic tiles, Kohler, and Grohe fixtures and custom glass doors.&lt;br&gt;&lt;br&gt;This apartment also features an abundance of closet space and comes with a Bosch Washer and Dryer.&lt;br&gt;&lt;br&gt;303 East 33rd Street is a new, full service, LEED-certified condominium building, located in Murray Hill. Featuring only the finest in energy efficient and natural materials, it is not only an environmentally friendly home, it is a economically friendly home. Building Features Include 5,000 SF Landscaped Roof Deck With Spacious Sun Deck, 3000+ SF Owners Lounge, Bocce Court, Outdoor Grilling &amp; Dining Space, Garden Level Atrium With Indoor/outdoor Fireplace And Green Wall, Media Lounge &amp; Party Room, Card &amp; Game Room With Billiards, State Of The Art Fitness Center With Cardio-theater And Exercise/yoga Studio &amp; Children Playroom. Conveniently located to the 6 train at 33rd and Park Ave and close to specialty shops, restaurants, Fairway Market and Loews Multiplex Theater.&lt;br&gt;&lt;br&gt;There is a 421-a tax abatement in place until 2021.&lt;br&gt;&lt;br&gt;Tenant on month to month lease.</Description>
+      <Description languages="en">PRICE REDUCTION !!!&lt;br&gt;Rare Opportunity To Purchase in First Green Luxury Condominium In The Heart Of Murray Hill!&lt;br&gt;&lt;br&gt;2-bedroom/2-bathroom corner apartment with 108 ft ceiling heights that features contemporary kitchen cabinetry, complete with breakfast bar, sitting adjacent to a spacious, sun-flooded living room. The open chef's white glass kitchen is fully equipped with LEED certified Energy Star appliances from Liebherr and Bosch. The Bamboo flooring throughout the apartment adds a warm and timeless feeling.&lt;br&gt;&lt;br&gt;Both the living room, and bedrooms are equipped with window blinds. The spacious master bathroom boasts a simple but elegant design featuring Bianco Dolomiti marble walls, quartzite tile floors, glass mosaic tiles, Kohler, and Grohe fixtures and custom glass doors.&lt;br&gt;&lt;br&gt;This apartment also features an abundance of closet space and comes with a Bosch Washer and Dryer.&lt;br&gt;&lt;br&gt;303 East 33rd Street is a new, full service, LEED-certified condominium building, located in Murray Hill. Featuring only the finest in energy efficient and natural materials, it is not only an environmentally friendly home, it is a economically friendly home. Building Features Include 5,000 SF Landscaped Roof Deck With Spacious Sun Deck, 3000+ SF Owners Lounge, Bocce Court, Outdoor Grilling &amp; Dining Space, Garden Level Atrium With Indoor/outdoor Fireplace And Green Wall, Media Lounge &amp; Party Room, Card &amp; Game Room With Billiards, State Of The Art Fitness Center With Cardio-theater And Exercise/yoga Studio &amp; Children Playroom. Conveniently located to the 6 train at 33rd and Park Ave and close to specialty shops, restaurants, Fairway Market and Loews Multiplex Theater.&lt;br&gt;&lt;br&gt;There is a 421-a tax abatement in place until 2021.&lt;br&gt;&lt;br&gt;Tenant on month to month lease.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58073e/4ddca1/a41f08/8bf8e6/5.jpg?17/02/2017</Photo>
@@ -429,21 +433,22 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2009</ConstructionYear>
     <Reference>303 E 33RD STAPT 8N</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1038.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5875c31f6780207e4d296989</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2017-01-10T00:00:00.000Z</PublicationDate>
     <Rooms>3.0</Rooms>
     <Bedrooms>1</Bedrooms>
     <LivingArea>108.139092</LivingArea>
     <Descriptions>
-      <Description languages="en">Priced to Sell!!&lt;br&gt;A sprawling space at nearly 1,200sf, accented by 10 ft high ceilings and elegant finishes. The true  floor-to-ceiling West-facing windows flood the large living area and open kitchen with warm, natural light. The modern, smartly designed kitchen is beautiful and efficient. It is accented with neutral hues, Calacatta ligano marble, and handsome lacquered cabinetry, which combine to make cooking a true joy.&lt;br&gt;&lt;br&gt;Highlights of this home&#x92;s sophisticated master bathroom include oversized white marble tiles edged with brushed bronze, marble countertops, and brushed bronze fixtures. Enjoy the luxurious deep-soaking tub, and step out onto radiant heated floors. The full second bathroom features glass wall tiles and bronze Kohler fittings.&lt;br&gt;&lt;br&gt;Other unique features of this new construction home are a gracious entry foyer and a separate home office, which could also be used as a 2nd Bedroom.&lt;br&gt;&lt;br&gt;Exemplifying what it means to live in a luxury building, the Halcyon offers the best amenities of any East Side condominium. Perched high above Manhattan, the Halcyon&#x92;s 52 ft. heated lap pool, indoor sun deck, unique aqua spa, and the three-story fitness center with state-of-the-art equipment, leave nothing to be desired. Residents can also host cocktail parties or seated dinners in the loft-like sky lounge, or slip into the serene environment of the warm, oak-floored library and courtyard. In addition, the Halcyon features a unique children&#x92;s playroom, an ideal space for art projects or story time.&lt;br&gt;&lt;br&gt;Located on a beautiful tree-lined street and just minutes away from the 6, E, and M subway stop, you can have convenience, a great neighborhood and an incredible apartment to call home. Call or email to schedule a private showing today.</Description>
+      <Description languages="en">Priced to Sell!!&lt;br&gt;A sprawling space at nearly 1,200sf, accented by 10 ft high ceilings and elegant finishes. The true  floor-to-ceiling West-facing windows flood the large living area and open kitchen with warm, natural light. The modern, smartly designed kitchen is beautiful and efficient. It is accented with neutral hues, Calacatta ligano marble, and handsome lacquered cabinetry, which combine to make cooking a true joy.&lt;br&gt;&lt;br&gt;Highlights of this homes sophisticated master bathroom include oversized white marble tiles edged with brushed bronze, marble countertops, and brushed bronze fixtures. Enjoy the luxurious deep-soaking tub, and step out onto radiant heated floors. The full second bathroom features glass wall tiles and bronze Kohler fittings.&lt;br&gt;&lt;br&gt;Other unique features of this new construction home are a gracious entry foyer and a separate home office, which could also be used as a 2nd Bedroom.&lt;br&gt;&lt;br&gt;Exemplifying what it means to live in a luxury building, the Halcyon offers the best amenities of any East Side condominium. Perched high above Manhattan, the Halcyons 52 ft. heated lap pool, indoor sun deck, unique aqua spa, and the three-story fitness center with state-of-the-art equipment, leave nothing to be desired. Residents can also host cocktail parties or seated dinners in the loft-like sky lounge, or slip into the serene environment of the warm, oak-floored library and courtyard. In addition, the Halcyon features a unique childrens playroom, an ideal space for art projects or story time.&lt;br&gt;&lt;br&gt;Located on a beautiful tree-lined street and just minutes away from the 6, E, and M subway stop, you can have convenience, a great neighborhood and an incredible apartment to call home. Call or email to schedule a private showing today.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/589b3b/d2fd06/741e6f/312856/_MG_0593-Edit-wm.jpg?17/02/2017</Photo>
@@ -495,15 +500,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5759cd/8856c7/d86cf8/75087a/Thomas_Duger%20copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2014</ConstructionYear>
     <Reference>305 E 51ST STAPT 6H</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1174.21</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5858c22028b43332694b6d21</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-12-19T00:00:00.000Z</PublicationDate>
     <Rooms>3.0</Rooms>
     <Bedrooms>1</Bedrooms>
@@ -557,15 +563,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5883a6/91d272/d4412d/a112fb/45a27fe0-9f14-4ca4-a48c-b508c73d9da2_nick-anable-sq.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2015</ConstructionYear>
     <Reference>50 RIVERSIDE BLVDAPT 7P</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>953.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5875c2e842fc1f68ad7844d1</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2017-01-10T00:00:00.000Z</PublicationDate>
     <Rooms>5.0</Rooms>
     <Bedrooms>2</Bedrooms>
@@ -615,15 +622,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5883a6/91d272/d4412d/a112fb/45a27fe0-9f14-4ca4-a48c-b508c73d9da2_nick-anable-sq.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>2007</ConstructionYear>
     <Reference>310 W 52ND STAPT 4D</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1082.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>57ef6609bf500c40c0e3d7e3</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-09-30T00:00:00.000Z</PublicationDate>
     <Rooms>3.0</Rooms>
     <Bedrooms>1</Bedrooms>
@@ -678,15 +686,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e4fa/6614a6/4f03ae/000019/ashley-reidy-sq%20copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1900</ConstructionYear>
     <Reference>39 E 29TH STAPT 10B</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>815.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>587efd6cbfaa00266d87d0ef</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2017-01-17T00:00:00.000Z</PublicationDate>
     <Rooms>2.0</Rooms>
     <Bedrooms>1</Bedrooms>
@@ -744,6 +753,7 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5547ba/746f40/b71019/7b2a5b/Elijah_Brown-1_1_.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1960</ConstructionYear>
     <Reference>14 HORATIO STAPT 3F</Reference>
     <ServiceCharge>1254.0</ServiceCharge>
   </Advert>
@@ -752,7 +762,7 @@
     <AdvertId>584106e93810390983e5a1fe</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-12-01T00:00:00.000Z</PublicationDate>
     <Rooms>2.0</Rooms>
     <Bedrooms>1</Bedrooms>
@@ -804,21 +814,22 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e4fa/6614a6/4f03ae/000019/ashley-reidy-sq%20copy.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1985</ConstructionYear>
     <Reference>211 MADISON AVEAPT 10A</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>1693.0</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>58a538f2454acb31c0ad3226</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2017-02-15T00:00:00.000Z</PublicationDate>
     <Rooms>3.0</Rooms>
     <Bedrooms>1</Bedrooms>
     <LivingArea>63.824360999999996</LivingArea>
     <Descriptions>
-      <Description languages="en">Experience the height of NYC luxury in this exquisite building at 515 E 72nd. St. Located in the heart of the Upper East Side, only steps away from the 2nd Avenue subway, this building has all the best that NYC has to offer: luxury spa-like amenities, gorgeous interiors, and a coveted UES address.&lt;br&gt;&lt;br&gt;This south-facing 1 bedroom, 1 bath with 100 sq. ft balcony is move-in ready for an owner with discerning taste. The developer spared no expense to ensure this home boasts the finest finishes throughout. From the white Corian countertops/cabinets, Miele dishwasher, Liebherr refrigerator to the Piombo stone tiles, and Toto and Dornbracht fixtures in the bathroom every detail has been thoughtfully appointed. A visual treat, the apartment has walnut floors throughout with large, bright windows in each room, several spacious well-lit closets provide ample space for living and storage. Your full-size Bosch washer &amp; dryer is discreetly stored in an oversized closet to make laundry easy and out of sight.&lt;br&gt;&lt;br&gt;Come home to Manhattan&#x92;s first spa-inspired condominium with 40,000 sq. ft of amenities including a private park, indoor saltwater pool, hot tub, basketball, squash, racquetball, rock climbing wall, artist studios, and Jodi&#x92;s gym. To replenish yourself, the in-house spa offers massages, facials, and manicures adjacent to well-appointed locker rooms with male and female sauna and steam rooms.&lt;br&gt;&lt;br&gt;The level of service at 515 W 72nd will exceed your expectations with a 24/7 doorman and concierge, a complimentary breakfast each morning and an in-house valet to process your dry cleaning, and receive your deliveries. A parking garage is adjacent to the building.&lt;br&gt;&lt;br&gt;Pets are welcome.</Description>
+      <Description languages="en">Experience the height of NYC luxury in this exquisite building at 515 E 72nd. St. Located in the heart of the Upper East Side, only steps away from the 2nd Avenue subway, this building has all the best that NYC has to offer: luxury spa-like amenities, gorgeous interiors, and a coveted UES address.&lt;br&gt;&lt;br&gt;This south-facing 1 bedroom, 1 bath with 100 sq. ft balcony is move-in ready for an owner with discerning taste. The developer spared no expense to ensure this home boasts the finest finishes throughout. From the white Corian countertops/cabinets, Miele dishwasher, Liebherr refrigerator to the Piombo stone tiles, and Toto and Dornbracht fixtures in the bathroom every detail has been thoughtfully appointed. A visual treat, the apartment has walnut floors throughout with large, bright windows in each room, several spacious well-lit closets provide ample space for living and storage. Your full-size Bosch washer &amp; dryer is discreetly stored in an oversized closet to make laundry easy and out of sight.&lt;br&gt;&lt;br&gt;Come home to Manhattans first spa-inspired condominium with 40,000 sq. ft of amenities including a private park, indoor saltwater pool, hot tub, basketball, squash, racquetball, rock climbing wall, artist studios, and Jodis gym. To replenish yourself, the in-house spa offers massages, facials, and manicures adjacent to well-appointed locker rooms with male and female sauna and steam rooms.&lt;br&gt;&lt;br&gt;The level of service at 515 W 72nd will exceed your expectations with a 24/7 doorman and concierge, a complimentary breakfast each morning and an in-house valet to process your dry cleaning, and receive your deliveries. A parking garage is adjacent to the building.&lt;br&gt;&lt;br&gt;Pets are welcome.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58a5c4/06ac83/271e89/b9c23a/_MG_0814-Edit-hi_final02.jpg?17/02/2017</Photo>
@@ -868,15 +879,16 @@
       <Photo>https://images.datahubus.com/core_data/image/file/53e4ea/4014a6/4f5ae1/00005b/picture-420.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1985</ConstructionYear>
     <Reference>515 E 72ND STAPT 7G</Reference>
-    <ServiceCharge>0</ServiceCharge>
+    <ServiceCharge>876.35</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>56b97aa715f997248228ce27</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
+    <GoodType>Flat</GoodType>
     <PublicationDate>2016-02-08T00:00:00.000Z</PublicationDate>
     <Rooms>4.0</Rooms>
     <Bedrooms>1</Bedrooms>
@@ -926,69 +938,8 @@
       <Photo>https://images.datahubus.com/core_data/image/file/5883a6/91d272/d4412d/a112fb/45a27fe0-9f14-4ca4-a48c-b508c73d9da2_nick-anable-sq.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
+    <ConstructionYear>1952</ConstructionYear>
     <Reference>200 E END AVEAPT 4E</Reference>
     <ServiceCharge>1873.0</ServiceCharge>
-  </Advert>
-  <Advert>
-    <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>58995ba9f12d0865450862d2</AdvertId>
-    <CustomerType>Private</CustomerType>
-    <AdvertType>Sale</AdvertType>
-    <GoodType>apartment</GoodType>
-    <PublicationDate>2017-02-06T00:00:00.000Z</PublicationDate>
-    <Rooms>3.0</Rooms>
-    <Bedrooms>1</Bedrooms>
-    <LivingArea>67.261772</LivingArea>
-    <Descriptions>
-      <Description languages="en">This spacious one bedroom apartment with an 89 SF south-facing balcony will leave you amazed by its natural light and open views. The expansive living room and separate dining area are paired with a large entertaining space, perfect for hosting guests or relaxing with your family. The roomy bedroom can easily fit a king size bed with space to spare, while the kitchen flows nicely into the living room and comes equipped with a stainless steel stove, refrigerator, microwave, and dishwasher.&lt;br&gt;&lt;br&gt;Amazing Amenities!&lt;br&gt;This is your chance to own a home in The Cove Club, a full-service building with 24-hour doorman and concierge. The building also features a state-of-the-art fitness center, spa, billiards room, lounge, beautiful courtyard garden, and an incredible roof deck with stunning views of the Hudson river, Statue of Liberty, and Downtown Manhattan. As an added bonus, there is also on-site parking available.&lt;br&gt;&lt;br&gt;Location, Location, Location&lt;br&gt;The apartment is located on a gorgeous cul-de-sac street surrounded by two beautiful parks, just steps away from Battery Park Promenade and the 4/5 express and 1 subway lines. Take a short walk and you'll find yourself at Brookfield Place and the many wonderful restaurants that surround it. The Cove Club is a pet-friendly building where luxury living is made east. This won't last long! Call or email to schedule a private showing today.</Description>
-    </Descriptions>
-    <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/984f79/ad1e89/e59b75/RE000125.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/abe93d/1e1e89/48fd6e/RE000123.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/c3371b/d71e89/c02a3b/RE000117.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/d3ad60/4c1e89/fedffc/RE000119.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/e982b6/ed1e6f/0851d2/RE000118.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e1/fb637b/111e89/c082d1/RE000121.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e2/0cc051/ee1e89/242b5a/RE000120.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e2/26fbb2/751e89/5f0f74/RE000124.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e2/3dac82/bf1e6f/5f7022/The-Cove-CLub-Entr.jpg?17/02/2017</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/5899e2/4b309b/a91e6f/022782/The-Cove-CLub-Entr-Water.jpg?17/02/2017</Photo>
-    </Photos>
-    <Price>599000</Price>
-    <PriceCurrency>USD</PriceCurrency>
-    <IsAuction>0</IsAuction>
-    <Country>US</Country>
-    <HideAddress>false</HideAddress>
-    <Furnished>false</Furnished>
-    <Address>2 S END AVE</Address>
-    <PostalCode>10280</PostalCode>
-    <State>NY</State>
-    <City>NEW YORK</City>
-    <Geolocation>
-      <Latitude>40.707779</Latitude>
-      <Longitude>-74.017571</Longitude>
-    </Geolocation>
-    <Bathrooms/>
-    <Contact>
-      <SiteAccountId>elegran</SiteAccountId>
-      <CustomerType>Private</CustomerType>
-      <CorporateName>Elegran Real Estate and Development</CorporateName>
-      <FirstName>Thomas</FirstName>
-      <LastName>Duger</LastName>
-      <LandPhone>+1212-729-5684</LandPhone>
-      <MobilePhone>+1315-529-1277</MobilePhone>
-      <Email>info@elegran.com</Email>
-      <AgentId>5398665414a64faa14000001</AgentId>
-      <AgentEmail>tduger@elegran.com</AgentEmail>
-      <Website>https://www.elegran.com/agents/thomas-duger</Website>
-      <Address>353 Lexington Avenue</Address>
-      <PostalCode>10016</PostalCode>
-      <City>New York</City>
-      <Country>US</Country>
-      <Photo>https://images.datahubus.com/core_data/image/file/5759cd/8856c7/d86cf8/75087a/Thomas_Duger%20copy.jpg</Photo>
-      <SpokenLanguages>English</SpokenLanguages>
-    </Contact>
-    <Reference>2 S END AVEAPT 4A</Reference>
-    <ServiceCharge>0</ServiceCharge>
   </Advert>
 </Adverts>

@@ -22,7 +22,7 @@ def listings
         AdvertId: listing['id'],
         CustomerType: 'Private',
         AdvertType: listing['sale_rental']['label'],
-        GoodType: listing['unit_type'],
+        GoodType: check_goodtype(listing['unit_type']),
         PublicationDate: listing['listed_at'],
         Rooms: listing['no_of_rooms'],
         Bedrooms: listing['no_of_bedrooms'],
@@ -39,11 +39,11 @@ def listings
         Country: 'US',
         HideAddress: false, 
         Furnished: listing['furnished'],
-        Address: @building_json['address'],
-        PostalCode: @building_json['zip_code'],
-        State: @building_json['state'],
-        City: @building_json['city'],
-        Geolocation: { 'Latitude' => @building_json['coordinates'][0], 'Longitude' => @building_json['coordinates'][1] },
+        Address: @building_json['locations'][0]['address'],
+        PostalCode: @building_json['locations'][0]['zip_code'],
+        State: @building_json['locations'][0]['state'],
+        City: @building_json['locations'][0]['city'],
+        Geolocation: { 'Latitude' => @building_json['locations'][0]['coordinates'][0], 'Longitude' => @building_json['locations'][0]['coordinates'][1] },
         Bathrooms: listing['no_of_bths'],
         Contact: {
           SiteAccountId: 'elegran',
@@ -71,7 +71,7 @@ def listings
     end
 
     unless listing['apt_number'].nil?
-      @listing_hash[:Advert][:Reference] = @building_json['address']+listing['apt_number']
+      @listing_hash[:Advert][:Reference] = @building_json['locations'][0]['address']+listing['apt_number']
     end
 
     if listing['sale_rental']['label'] == 'Rental'
@@ -94,7 +94,7 @@ end
 
 listings
 
-builder = Nokogiri::XML::Builder.new do |xml|
+builder = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') do |xml|
   xml.send('Adverts') do
     @listings.each do |hash|
       generate_xml(hash, xml)
