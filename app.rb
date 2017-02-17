@@ -26,14 +26,14 @@ def listings
         PublicationDate: listing['listed_at'],
         Rooms: listing['no_of_rooms'],
         Bedrooms: listing['no_of_bedrooms'],
-        LivingArea: listing['floor_space'],
+        LivingArea: listing['floor_space'].to_i * 0.092903,
         Descriptions: { 'Description' =>
           [
             '@text' => pretty_summary(listing['broker_summary']), '@attributes' => { 'languages' => 'en' }
           ]
         },
         Photos: { Photo: [] },
-        Price: listing['price'],
+        Price: listing['price'].to_i,
         PriceCurrency: 'USD',
         IsAuction: 0,
         Country: 'US',
@@ -45,10 +45,9 @@ def listings
         City: @building_json['city'],
         Geolocation: { 'Latitude' => @building_json['coordinates'][0], 'Longitude' => @building_json['coordinates'][1] },
         Bathrooms: listing['no_of_bths'],
-        Nested: { 'total' => [99, 98], '@attributes' => {'foo' => 'bar', 'hello' => 'world'} },
         Contact: {
           SiteAccountId: 'elegran',
-          CustomerType: 'Pricate',
+          CustomerType: 'Private',
           CorporateName: 'Elegran Real Estate and Development',
           FirstName: @promo_listing_json[0]['refs'][0]['promotable_item']['first_name'],
           LastName: @promo_listing_json[0]['refs'][0]['promotable_item']['last_name'],
@@ -79,10 +78,10 @@ def listings
       @listing_hash[:Advert][:PriceType] = 'Monthly'
     end
     
-    if listing['maintenance'].nil?
-      @listing_hash[:Advert][:ServiceCharge] = 0
-    else
+    if listing['maintenance']
       @listing_hash[:Advert][:ServiceCharge] = listing['maintenance']
+    elsif listing['common_charges']
+      @listing_hash[:Advert][:ServiceCharge] = listing['common_charges']
     end
 
     listing['images'].each do |img|
