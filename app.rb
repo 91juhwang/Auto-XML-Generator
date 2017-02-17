@@ -19,14 +19,14 @@ def listings
     @listing_hash = {
       Advert: {
         SiteAccountId: 'elegran',
-        AdvertId: listing['id'],
+        AdvertId: listing['id'][0..19],
         CustomerType: 'Private',
         AdvertType: listing['sale_rental']['label'],
         GoodType: check_goodtype(listing['unit_type']),
         PublicationDate: listing['listed_at'],
-        Rooms: listing['no_of_rooms'],
+        Rooms: listing['no_of_rooms'].to_i,
         Bedrooms: listing['no_of_bedrooms'],
-        LivingArea: listing['floor_space'].to_i * 0.092903,
+        LivingArea: (listing['floor_space'].to_i * 0.092903).to_i,
         Descriptions: { 'Description' =>
           [
             '@text' => pretty_summary(listing['broker_summary']), '@attributes' => { 'languages' => 'en' }
@@ -43,8 +43,8 @@ def listings
         PostalCode: @building_json['locations'][0]['zip_code'],
         State: @building_json['locations'][0]['state'],
         City: @building_json['locations'][0]['city'],
-        Geolocation: { 'Latitude' => @building_json['locations'][0]['coordinates'][0], 'Longitude' => @building_json['locations'][0]['coordinates'][1] },
-        Bathrooms: listing['no_of_bths'],
+        Geolocation: { 'Latitude' => @building_json['locations'][0]['coordinates'][0], 'Longitude' => @building_json['locations'][0]['coordinates'][1], 'Accuracy' => 8 },
+        Bathrooms: listing['no_of_baths'].to_i,
         Contact: {
           SiteAccountId: 'elegran',
           CustomerType: 'Private',
@@ -79,13 +79,13 @@ def listings
     end
     
     if listing['maintenance']
-      @listing_hash[:Advert][:ServiceCharge] = listing['maintenance']
+      @listing_hash[:Advert][:ServiceCharge] = listing['maintenance'].to_i
     elsif listing['common_charges']
-      @listing_hash[:Advert][:ServiceCharge] = listing['common_charges']
+      @listing_hash[:Advert][:ServiceCharge] = listing['common_charges'].to_i
     end
 
     listing['images'].each do |img|
-      @listing_hash[:Advert][:Photos][:Photo] << img['url']+"?#{Time.now.strftime("%d/%m/%Y")}"
+      @listing_hash[:Advert][:Photos][:Photo] << img['url']
     end
 
     @listings << @listing_hash
