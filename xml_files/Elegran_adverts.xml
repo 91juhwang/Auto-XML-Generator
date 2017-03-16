@@ -27,7 +27,7 @@
       <Photo>https://images.datahubus.com/core_data/image/file/589360/5b7053/7b131e/654594/DSC_9660_final.jpg</Photo>
       <Photo>https://images.datahubus.com/core_data/image/file/589360/72e2be/5f131e/32e1e4/147W63rd-02.jpg</Photo>
     </Photos>
-    <Price>13950000</Price>
+    <Price>12950000</Price>
     <PriceCurrency>USD</PriceCurrency>
     <IsAuction>0</IsAuction>
     <Country>US</Country>
@@ -66,132 +66,75 @@
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>584f87787bded42a7658</AdvertId>
+    <AdvertId>58c0e8e19f9ed0251ac3</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
     <GoodType>Flat</GoodType>
-    <PublicationDate>2016-12-12T00:00:00.000Z</PublicationDate>
-    <Rooms>9</Rooms>
-    <Bedrooms>5</Bedrooms>
-    <LivingArea>353</LivingArea>
-    <Descriptions>
-      <Description languages="en">Showing over the holidays: Once-in-a-lifetime opportunity to create a spacious 5+- bed, 5 bath mansion in the sky, with 2 powder rooms, home office, 4 private terraces and take your breath away views surrounded by walls of glass with total beauty inside and out. This superb high floor option to combine on the 31st floor at 56 Leonard offers iconic city, skyline and river views, 11 ceilings and interiors by Herzog &amp; de Meuron, plus unsurpassed services and amenities including a 75 lap pool, sundeck, gym, screening room, private dining, kids lounge and much more.  &lt;p&gt;Custom detailing includes sculptural elements throughout: In the chefs kitchen, a retractable granite island and seamlessly incorporated appliances with satin glass cabinets gently reflect immense natural light. The romantic bedroom suites offer soaring views all the way to Delaware, and enjoy a layout great for entertaining, with 2 chic powder rooms for your guests featuring sinks of solid travertine, custom lighting and marble elements. Double-masters offer sitting areas, immense closets and spa baths with oversized soaking tubs, radiant heating and glass-enclosed showers. Additional features include Appalachian solid white oak flooring, in-unit laundry and super quiet 4-pipe heating and cooling for year-round multi-zone climate control, plus Feng-Shui elements for balance, calm living and serenity.&lt;p&gt;This brand new Condominium offers a style of living rarely seen, with no invasive interview. Rentals, investors and guarantors are all permitted, plus the building is pet friendly. Conveniently located in prime Tribeca, with some of the City's best restaurants, shopping, transportation and green riverside parks just outside your door. The lifestyle you have been dreaming of can be yours, in brand new construction - without the wait. &lt;p&gt; Note: 2 adjacent units offered by separate Sellers for purchase together or separately - both in move-in ready condition. Alternate plans shown as suggested options only, bring your architect and create the perfect combination for your specific needs.</Description>
-    </Descriptions>
-    <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/585188/6ee6ba/e941b6/aaf7fe/DSC_1345.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585188/7d6378/1f41b6/3c8c53/DSC_1318.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/589246/7766f6/fd131f/103a58/DSC_1318_final-4-2.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585188/e455f0/714182/eb58f1/DSC_1243.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585189/386e37/fa41b6/713fc7/DSC_1292_final-3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585189/10f645/934182/f48524/DSC_1229.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585189/2c94f9/7f41b6/9163da/DSC_1388.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585189/56eed5/3f4182/09d625/DSC_1292.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585385/5dadc7/af2e58/eecadb/112c99c2c6ce9dbf4250b61bc3f01883.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585385/5f2c32/7a2e58/de25a7/4221982ec7ae441ba69fdf44439c3efe.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585385/6006f2/6b2dfb/006963/7566bb0a95afef004edfc3451245eaf3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585385/620766/132e51/13d712/713a1b1dfd9e225343f7b2a1fdbda27d.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/585385/63fff1/eb2e51/c558f0/5ed79360e19ac9bb29bd3f836f04b07f.jpg</Photo>
-    </Photos>
-    <Price>13450000</Price>
-    <PriceCurrency>USD</PriceCurrency>
-    <IsAuction>0</IsAuction>
-    <Country>US</Country>
-    <HideAddress>false</HideAddress>
-    <Furnished>false</Furnished>
-    <Address>56 LEONARD ST</Address>
-    <PostalCode>10013</PostalCode>
-    <State>NY</State>
-    <City>NEW YORK</City>
-    <Geolocation>
-      <Latitude>40.71772</Latitude>
-      <Longitude>-74.006401</Longitude>
-      <Accuracy>8</Accuracy>
-    </Geolocation>
-    <Bathrooms>5</Bathrooms>
-    <Contact>
-      <SiteAccountId>elegran</SiteAccountId>
-      <CustomerType>Private</CustomerType>
-      <CorporateName>Elegran Real Estate and Development</CorporateName>
-      <FirstName>Chris</FirstName>
-      <LastName>Fry</LastName>
-      <LandPhone>+1212-729-5712, Ext. 121</LandPhone>
-      <MobilePhone>+1732-963-7080</MobilePhone>
-      <Email>info@elegran.com</Email>
-      <AgentId>5310cf1e14a64f6f3c000057</AgentId>
-      <AgentEmail>cfry@elegran.com</AgentEmail>
-      <Website>https://www.elegran.com/agents/chris-fry</Website>
-      <Address>353 Lexington Avenue</Address>
-      <PostalCode>10016</PostalCode>
-      <City>New York</City>
-      <Country>US</Country>
-      <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
-      <SpokenLanguages>English</SpokenLanguages>
-    </Contact>
-    <ConstructionYear>2016</ConstructionYear>
-    <Reference>56 LEONARD STAPT 31ABWEST</Reference>
-    <ServiceCharge>3872</ServiceCharge>
-  </Advert>
-  <Advert>
-    <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>57bd327733014645764f</AdvertId>
-    <CustomerType>Private</CustomerType>
-    <AdvertType>Sale</AdvertType>
-    <GoodType>Flat</GoodType>
-    <PublicationDate>2016-08-23T00:00:00.000Z</PublicationDate>
+    <PublicationDate>2017-03-06T00:00:00.000Z</PublicationDate>
     <Rooms>5</Rooms>
-    <Bedrooms>3</Bedrooms>
-    <LivingArea>202</LivingArea>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>181</LivingArea>
     <Descriptions>
-      <Description languages="en">NOTE: This unit is also offered as a combination with 31A-WEST totaling 3,800 sqft of North, West and South views. Please call for more information.&lt;br&gt;&lt;br&gt;Spacious 3 bedroom 3.5 bath located in Tribeca with North and West exposures, boasting astounding views of the Hudson River and cityscape.&lt;br&gt;&lt;br&gt;31B-West features 11 ceilings, floor to ceiling windows and two private balconies. Find custom interiors by Herzog &amp; de Meuron, such as kitchen islands and countertops. The kitchen is equipped with Sub-Zero and Miele appliances. Windowed master bath has travertine, marble, and radiant heated floors. The Residence also features white oak flooring, a 4-pipe heating/cooling system, and Maytag vented washer/dryer.&lt;br&gt;&lt;br&gt;56 Leonard Street is designed by Pritzker Prize-winning architects, Herzog &amp; de Meuron. This 60-story ,145 unit condominium holds 17,000 sqft of amenities, including a 75 lap pool with sundeck, gym, screening room, lounge, private dining room, and playroom. The architectural feat, 56 Leonard Street, is in close proximity to 1, 2, 3, A, C, and E trains.&lt;br&gt;10 YEAR TAX ABATEMENT&lt;br&gt;&lt;br&gt;Video of the listing: https://www.youtube.com/watch?v=V4Eh68kAnq0</Description>
+      <Description languages="en">Experience stunning Manhattan views from every room of this gorgeous penthouse condominium, located on one of NYCs most coveted blocks. This bright, two-bedroom home greets guests with a beautiful foyer that leads into spacious, luxurious living and dining rooms. The two oversized bedrooms offer the ultimate in comfort and privacy with their numerous closets, en-suite bathrooms, split layout and grand city views.&lt;br&gt;&lt;br&gt;The two and a half bathrooms are comprised of dazzling marble, while the renovated kitchen offers everything a chef could need. This is a truly exclusive NYC building, the apartment is one of only two on the floor, in a full-service doorman building.&lt;br&gt;45 West 67th Street is just steps away from some of NYCs greatest landmarks including Central Park and Lincoln Center. This is a pet-friendly building.&lt;br&gt;Across the street, with its sweeping views of the New York City skyline, a 5000sf Equinox palatial club boasts a recent multi-million dollar investment to elevate it into one of New Yorks most eminent fitness havens.</Description>
     </Descriptions>
     <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f80a3f/041f08/4a27b0/DSC_1318_final-3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f8665c/c71f08/6f418d/DSC_1345.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f893d6/9a1f08/ce947b/DSC_1292_final-3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f8e199/b41f08/cc20a1/DSC_1243.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f8433b/fb1f08/551ce9/DSC_1388.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f86eac/321f08/86bf10/DSC_1245.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f8bd5b/e11f08/ad38a6/DSC_1208.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/f801f6/b01f08/38441e/DSC_1299.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/b9c5ab/783654/78e590/_MG_1772-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6d6/b27c53/ac399e/73045c/_MG_1777-Edit-hi_final.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/e229c9/1f399e/b725ff/_MG_1691-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6df/05166d/bd399e/5c0ef5/45w-67th-st-06.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/fc4b27/253654/4d056a/_MG_1678-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/0a4aaf/57399e/8237b8/_MG_1715-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/ef60a0/833654/9f640d/_MG_1681-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/19cc52/fc3654/329301/_MG_1735-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/2510d9/793654/3efaed/_MG_1762-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/35f411/46399e/5ad380/_MG_1749-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/496de7/7d3654/aa8a1b/_MG_1756-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/617ede/f4399e/c7d208/_MG_1759-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/71bbb7/11399e/1668c2/_MG_1766-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/8d2929/3b3654/dd1a0f/_MG_1654-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ae/f364e0/4c399e/24df5c/45w-67th-st-02.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/d37b3a/44399e/573312/_MG_1775-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c8e0/584d69/8e0518/7005a2/fbd34b1bc291a74e0fa400ca95b9d3ab.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c8e0/5a8974/687729/5a217d/241ff89e41cb5dbe6b5147ee56efcd6a.jpg</Photo>
     </Photos>
-    <Price>7350000</Price>
+    <Price>5500000</Price>
     <PriceCurrency>USD</PriceCurrency>
     <IsAuction>0</IsAuction>
     <Country>US</Country>
     <HideAddress>false</HideAddress>
     <Furnished>false</Furnished>
-    <Address>56 LEONARD ST</Address>
-    <PostalCode>10013</PostalCode>
+    <Address>45 W 67TH ST</Address>
+    <PostalCode>10023</PostalCode>
     <State>NY</State>
     <City>NEW YORK</City>
     <Geolocation>
-      <Latitude>40.71772</Latitude>
-      <Longitude>-74.006401</Longitude>
+      <Latitude>40.77425</Latitude>
+      <Longitude>-73.980591</Longitude>
       <Accuracy>8</Accuracy>
     </Geolocation>
-    <Bathrooms>3</Bathrooms>
+    <Bathrooms>2</Bathrooms>
     <Contact>
       <SiteAccountId>elegran</SiteAccountId>
       <CustomerType>Private</CustomerType>
       <CorporateName>Elegran Real Estate and Development</CorporateName>
-      <FirstName>Chris</FirstName>
-      <LastName>Fry</LastName>
-      <LandPhone>+1212-729-5712, Ext. 121</LandPhone>
-      <MobilePhone>+1732-963-7080</MobilePhone>
+      <FirstName>Elisabeth</FirstName>
+      <LastName>Mohlmann</LastName>
+      <LandPhone>+1646-386-7696</LandPhone>
+      <MobilePhone>+1917-428-0932</MobilePhone>
       <Email>info@elegran.com</Email>
-      <AgentId>5310cf1e14a64f6f3c000057</AgentId>
-      <AgentEmail>cfry@elegran.com</AgentEmail>
-      <Website>https://www.elegran.com/agents/chris-fry</Website>
+      <AgentId>5310cfb114a64fa06f00005a</AgentId>
+      <AgentEmail>emohlmann@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/elisabeth-mohlmann</Website>
       <Address>353 Lexington Avenue</Address>
       <PostalCode>10016</PostalCode>
       <City>New York</City>
       <Country>US</Country>
-      <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/53e4ea/4014a6/4f5ae1/00005b/picture-420.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
-    <ConstructionYear>2016</ConstructionYear>
-    <Reference>56 LEONARD STAPT 31BWEST</Reference>
-    <ServiceCharge>2211</ServiceCharge>
+    <ConstructionYear>1983</ConstructionYear>
+    <Reference>45 W 67TH STAPT 33B</Reference>
+    <ServiceCharge>1861</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
@@ -331,7 +274,7 @@
     <Bedrooms>3</Bedrooms>
     <LivingArea>171</LivingArea>
     <Descriptions>
-      <Description languages="en">Priced to sell, this one of a kind gut renovated three bedroom, two-and-a-half-bath triplex in the heart of Greenwich Village is the perfect place to call home! Towering double height ceilings and floor to ceiling windows make for a townhouse-style feel and space of a private home.&lt;br&gt;&lt;br&gt;With over 1,850 square feet this designer home is complimented with exposed brick, oak floors and top of the line appliances throughout. The apartment has been gut renovated with new oak floors, top of the line kitchen and custom milled cabinetry throughout. The bottom floor has been completely reconfigured with two bedrooms, a den and full bathroom.&lt;br&gt;&lt;br&gt;Bleecker Court amenities include a 24-hour doorman with concierge service, bike room, laundry on floor, private storage and roof deck. This highly sought after building is located in the heart of Greenwich Village convenient to  the Manhattans best restaurants, shops and public transportation. No Parental Purchasing or Guarantors allowed.</Description>
+      <Description languages="en">Priced to sell, this one of a kind gut renovated three bedroom, two-and-a-half-bath triplex in the heart of Greenwich Village is the perfect place to call home! Towering double height ceilings and floor to ceiling windows make for a townhouse-style feel and space of a private home.&lt;br&gt;&lt;br&gt;With over 1,850 square feet this designer home is complimented with exposed brick, oak floors and top of the line appliances throughout. The apartment has been gut renovated with new oak floors, top of the line kitchen and custom milled cabinetry throughout. The bottom floor has been completely reconfigured with two bedrooms, a den and full bathroom.&lt;br&gt;&lt;br&gt;Bleecker Court amenities include a 24-hour doorman with concierge service, bike room, laundry on floor, private storage and roof deck. This highly sought after building is located in the heart of Greenwich Village convenient to  the Manhattans best restaurants, shops and public transportation.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58764f/5f833f/1e11c8/a10959/_MG_0973-Edit-wm.jpg</Photo>
@@ -383,66 +326,6 @@
     <ConstructionYear>1930</ConstructionYear>
     <Reference>77 BLEECKER STAPT 102</Reference>
     <ServiceCharge>3434</ServiceCharge>
-  </Advert>
-  <Advert>
-    <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>55026fa1e852732d1e98</AdvertId>
-    <CustomerType>Private</CustomerType>
-    <AdvertType>Sale</AdvertType>
-    <GoodType>Flat</GoodType>
-    <PublicationDate>2016-08-23T00:00:00.000Z</PublicationDate>
-    <Rooms>4</Rooms>
-    <Bedrooms>2</Bedrooms>
-    <LivingArea>113</LivingArea>
-    <Descriptions>
-      <Description languages="en">PRICE REDUCTION !!!&lt;br&gt;Rare Opportunity To Purchase in First Green Luxury Condominium In The Heart Of Murray Hill!&lt;br&gt;&lt;br&gt;2-bedroom/2-bathroom corner apartment with 108 ft ceiling heights that features contemporary kitchen cabinetry, complete with breakfast bar, sitting adjacent to a spacious, sun-flooded living room. The open chef's white glass kitchen is fully equipped with LEED certified Energy Star appliances from Liebherr and Bosch. The Bamboo flooring throughout the apartment adds a warm and timeless feeling.&lt;br&gt;&lt;br&gt;Both the living room, and bedrooms are equipped with window blinds. The spacious master bathroom boasts a simple but elegant design featuring Bianco Dolomiti marble walls, quartzite tile floors, glass mosaic tiles, Kohler, and Grohe fixtures and custom glass doors.&lt;br&gt;&lt;br&gt;This apartment also features an abundance of closet space and comes with a Bosch Washer and Dryer.&lt;br&gt;&lt;br&gt;303 East 33rd Street is a new, full service, LEED-certified condominium building, located in Murray Hill. Featuring only the finest in energy efficient and natural materials, it is not only an environmentally friendly home, it is a economically friendly home. Building Features Include 5,000 SF Landscaped Roof Deck With Spacious Sun Deck, 3000+ SF Owners Lounge, Bocce Court, Outdoor Grilling &amp; Dining Space, Garden Level Atrium With Indoor/outdoor Fireplace And Green Wall, Media Lounge &amp; Party Room, Card &amp; Game Room With Billiards, State Of The Art Fitness Center With Cardio-theater And Exercise/yoga Studio &amp; Children Playroom. Conveniently located to the 6 train at 33rd and Park Ave and close to specialty shops, restaurants, Fairway Market and Loews Multiplex Theater.&lt;br&gt;&lt;br&gt;There is a 421-a tax abatement in place until 2021.&lt;br&gt;&lt;br&gt;Tenant on month to month lease.</Description>
-    </Descriptions>
-    <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4ddca1/a41f08/8bf8e6/5.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4dc528/531f08/426808/4.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4dc0ec/b11f08/6fbb97/3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d0cbe/1c1f08/104fb4/1.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d7d86/a21f08/f9f081/2.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d3acd/cd1f08/66841d/6.jpg</Photo>
-    </Photos>
-    <Price>2095000</Price>
-    <PriceCurrency>USD</PriceCurrency>
-    <IsAuction>0</IsAuction>
-    <Country>US</Country>
-    <HideAddress>false</HideAddress>
-    <Furnished>false</Furnished>
-    <Address>303 E 33RD ST</Address>
-    <PostalCode>10016</PostalCode>
-    <State>NY</State>
-    <City>NEW YORK</City>
-    <Geolocation>
-      <Latitude>40.743992</Latitude>
-      <Longitude>-73.975479</Longitude>
-      <Accuracy>8</Accuracy>
-    </Geolocation>
-    <Bathrooms>2</Bathrooms>
-    <Contact>
-      <SiteAccountId>elegran</SiteAccountId>
-      <CustomerType>Private</CustomerType>
-      <CorporateName>Elegran Real Estate and Development</CorporateName>
-      <FirstName>Chris</FirstName>
-      <LastName>Fry</LastName>
-      <LandPhone>+1212-729-5712, Ext. 121</LandPhone>
-      <MobilePhone>+1732-963-7080</MobilePhone>
-      <Email>info@elegran.com</Email>
-      <AgentId>5310cf1e14a64f6f3c000057</AgentId>
-      <AgentEmail>cfry@elegran.com</AgentEmail>
-      <Website>https://www.elegran.com/agents/chris-fry</Website>
-      <Address>353 Lexington Avenue</Address>
-      <PostalCode>10016</PostalCode>
-      <City>New York</City>
-      <Country>US</Country>
-      <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
-      <SpokenLanguages>English</SpokenLanguages>
-    </Contact>
-    <ConstructionYear>2009</ConstructionYear>
-    <Reference>303 E 33RD STAPT 8N</Reference>
-    <ServiceCharge>1038</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
@@ -514,6 +397,129 @@
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>55026fa1e852732d1e98</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2016-08-23T00:00:00.000Z</PublicationDate>
+    <Rooms>4</Rooms>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>113</LivingArea>
+    <Descriptions>
+      <Description languages="en">Rare opportunity to purchase in first green luxury condominium in the heart of Murray Hill!&lt;br&gt;&lt;br&gt;2-bedroom/2-bathroom corner apartment with 108 ft ceiling heights that features contemporary kitchen cabinetry, complete with breakfast bar, sitting adjacent to a spacious, sun-flooded living room. The open chef's white glass kitchen is fully equipped with LEED certified Energy Star appliances from Liebherr and Bosch. The Bamboo flooring throughout the apartment adds a warm and timeless feeling.&lt;br&gt;&lt;br&gt;Both the living room, and bedrooms are equipped with window blinds. The spacious master bathroom boasts a simple but elegant design featuring Bianco Dolomiti marble walls, quartzite tile floors, glass mosaic tiles, Kohler, and Grohe fixtures and custom glass doors. This apartment also features an abundance of closet space and comes with a Bosch Washer and Dryer.&lt;br&gt;&lt;br&gt;303 East 33rd Street is a new, full service, LEED-certified condominium building. Featuring only the finest in energy efficient and natural materials, it is not only an environmentally friendly home, it is a economically friendly home. Building features include 5,000 SF landscaped roof deck with spacious sun deck, 3000+ SF owners lounge, Bocce court, outdoor grilling &amp; dining space, garden level atrium with indoor/outdoor fireplace and green wall, media lounge &amp; party room, card &amp; game room with billiards, state of the art fitness center with cardio-theater and exercise/yoga studio &amp; children playroom. Conveniently located to the 6 train at 33rd and Park Ave and close to specialty shops, restaurants, Fairway Market and Loews Multiplex Theater.&lt;br&gt;&lt;br&gt;There is a 421-a tax abatement in place until 2021.&lt;br&gt;&lt;br&gt;Tenant on month to month lease.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4ddca1/a41f08/8bf8e6/5.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4dc528/531f08/426808/4.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4dc0ec/b11f08/6fbb97/3.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d0cbe/1c1f08/104fb4/1.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d7d86/a21f08/f9f081/2.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58073e/4d3acd/cd1f08/66841d/6.jpg</Photo>
+    </Photos>
+    <Price>1990000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>303 E 33RD ST</Address>
+    <PostalCode>10016</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.743992</Latitude>
+      <Longitude>-73.975479</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>2</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Chris</FirstName>
+      <LastName>Fry</LastName>
+      <LandPhone>+1212-729-5712, Ext. 121</LandPhone>
+      <MobilePhone>+1732-963-7080</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>5310cf1e14a64f6f3c000057</AgentId>
+      <AgentEmail>cfry@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/chris-fry</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a08/Chris_Fry_2_copy.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>2009</ConstructionYear>
+    <Reference>303 E 33RD STAPT 8N</Reference>
+    <ServiceCharge>1038</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>58b65cb2d8fb523ed44d</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2017-02-28T00:00:00.000Z</PublicationDate>
+    <Rooms>3</Rooms>
+    <Bedrooms>1</Bedrooms>
+    <LivingArea>88</LivingArea>
+    <Descriptions>
+      <Description languages="en">Upon entering 15D at the Halcyon, you will immediately be blown away by the 10 ft. high ceilings in this elegantly designed corner apartment with expansive open views. The walls of windows flood the large living area and open kitchen with warm, natural light. The smartly-designed windowed kitchen is beautiful and efficient. This modern kitchen, accented with neutral hues, Calacatta ligano marble, and handsome lacquered cabinetry combine to make cooking a true joy.&lt;br&gt;&lt;br&gt;Highlights of this homes sophisticated bathroom includes oversized white marble tiles edged with brushed bronze, marble countertops, and brushed bronze fixtures. Enjoy the luxurious deep-soaking tub and stepping out on to radiant heat floors.&lt;br&gt;Another unique feature of this new-construction home is the abundance of closet space.&lt;br&gt;&lt;br&gt;Exemplifying what it means to live in a luxury building, the Halcyon offers the best amenities of any East side condominium. Perched high above Manhattan, the Halycons 52-foot heated lap pool, indoor sun deck, unique Aqua Spa and the three-story Fitness Center, featuring state of the art equipment, leaves nothing to be desired. Residents can also enjoy hosting a cocktail party or a seated dinner in the loft-like Sky Lounge, or slipping into the serene environment of the warm oak floored Library and Courtyard. In addition, the Halcyon features a unique Childrens Playroom, an ideal space for art projects or story time.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f3/ea4ca6/a13654/ad6778/RE000247.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f3/fcad00/78399e/fb6cb2/RE000210.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/0bd292/5c3654/b55565/RE000232.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/1ae5ab/653654/711c6d/RE000198.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/290ad5/7e399e/2601ee/RE000220.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/36c5f6/1b399e/c61af1/RE000208.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/5985ee/213654/01b1ef/RE000244.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/8e4aa6/69399e/c4ea51/305-e-51st-6H-01.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b6f4/74c6aa/0e399e/0ced8e/_MG_0625-Edit-wm.jpg</Photo>
+    </Photos>
+    <Price>1870000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>305 E 51ST ST</Address>
+    <PostalCode>10022</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.75552</Latitude>
+      <Longitude>-73.967468</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>1</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Peter </FirstName>
+      <LastName>Oliveri</LastName>
+      <LandPhone>+1212-729-5712, Ext. 122</LandPhone>
+      <MobilePhone>+1917-566-4956</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>530b76e614a64f3abd00007d</AgentId>
+      <AgentEmail>peter@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/peter-oliveri</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/582c92/841e90/c70c4e/914e00/peter-oliveri-sq.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>2014</ConstructionYear>
+    <Reference>305 E 51ST STAPT 15D</Reference>
+    <ServiceCharge>999</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5858c22028b43332694b</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
@@ -578,6 +584,66 @@
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>58c23a353001a277e120</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2017-03-09T00:00:00.000Z</PublicationDate>
+    <Rooms>4</Rooms>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>99</LivingArea>
+    <Descriptions>
+      <Description languages="en">Experience the charm of Carnegie Hill with the amenities that come with luxury Manhattan living in this elegant two-bedroom Carnegie Park condominium. Enjoy spectacular views of the half-acre, private Carnegie Park while surrounded by large windows and gorgeous 5" wide plant oak flooring. The kitchen includes upgraded Viking stainless steel appliances, Carrara marble accents, and Caesarstone counters, while the bathroom features Caldia marble floors and walls. This home was developed with convenience in mind to include a washer and dryer in the unit and spacious closets throughout for additional storage. The master bedroom includes extensive built-ins for storage to make staying organized simple.&lt;br&gt;&lt;br&gt;Residents can enjoy the building's many modern amenities including a 24/7 attended lobby with a doorman, three-lane swimming pool, fitness center, yoga center, children's playroom, entertainment lounge, valet parking and rooftop terrace. All of this right next to a gorgeous private park and just steps away from Central Park and the many restaurants, shops and elite private schools Carnegie Hill as to offer.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/55db78/6e3654/f70374/RE000266.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/60a1d4/9f3654/49f028/RE000261.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/3ed7c6/32399e/01bf53/RE000257.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/31f958/8a3654/1d6482/RE000271.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/23793a/9f399e/9603a7/RE000251.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c2ba/1dfb6c/a2399e/2e370b/RE000270.jpg</Photo>
+    </Photos>
+    <Price>1775000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>200 E 94TH ST</Address>
+    <PostalCode>10128</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.783676</Latitude>
+      <Longitude>-73.950134</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>2</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Max</FirstName>
+      <LastName>Van Gorp</LastName>
+      <LandPhone>+1212-729-5712, Ext. 170</LandPhone>
+      <MobilePhone>+1929-309-7049</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>58414a3e2d71ad04083d335c</AgentId>
+      <AgentEmail>max@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/max-van-gorp</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/586d3a/9d073b/736c29/4b937a/917b25a3-1f4c-43b7-bd18-4ef0d355aa94_max-van-gorp-square.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>1986</ConstructionYear>
+    <Reference>200 E 94TH STAPT 517</Reference>
+    <ServiceCharge>1163</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
     <AdvertId>5875c2e842fc1f68ad78</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
@@ -638,46 +704,169 @@
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>57ef6609bf500c40c0e3</AdvertId>
+    <AdvertId>58ad21f3a2a0591e098f</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
     <GoodType>Flat</GoodType>
-    <PublicationDate>2016-09-30T00:00:00.000Z</PublicationDate>
+    <PublicationDate>2017-02-21T00:00:00.000Z</PublicationDate>
     <Rooms>3</Rooms>
     <Bedrooms>1</Bedrooms>
-    <LivingArea>79</LivingArea>
+    <LivingArea>74</LivingArea>
     <Descriptions>
-      <Description languages="en">Investors , tenant in place&lt;br&gt;&lt;br&gt;Boutique residence. NoMad address.&lt;br&gt;&lt;br&gt;855sf - Largest 1-bedroom in building&lt;br&gt;&lt;br&gt;Southern / 29th Street exposure&lt;br&gt;&lt;br&gt;Dual vanity bath&lt;br&gt;&lt;br&gt;Walk in closet&lt;br&gt;&lt;br&gt;Enjoy the most requested amenities in Manhattan --- Rooftop Lounge &amp; sport club quality Fitness Center</Description>
+      <Description languages="en">Live in luxury 42 floors above Fifth Avenue!  Morning sunlight from unobstructed city and river views meets you each morning with a warmth that only this high floor eastern exposure can.  Every room is sun drenched.  And in the evening, city lights sparkle through the uniquely designed diamond-shaped windows to set the mood.&lt;br&gt;&lt;br&gt;Black oak floors under your feet throughout welcome you home.  Your open kitchen is equipped with a full Miele appliance suite, Sub-zero refrigerator, and white Mont Blanc quartz counters.  Your generously sized bedroom extends right into your master bathroom oasis, outfitted with double vanity, spa sized tub with rainfall shower, and carefully selected marble throughout.  In-unit washer/dryer completes the checklist.&lt;br&gt;&lt;br&gt;Do you seek relaxation?  You have all of the amenities of the five star Langham Hotel available to you.  Order room service from the hotel or delivery from the Michelin-starred, Ai Fiori, restaurant serving French and Italian Riviera inspired cuisine.  Book a massage at the newly renovated Chuan Body + Soul Spa or choose your workout routine at the 3,000 square foot fitness center.&lt;br&gt;&lt;br&gt;Centrally located on Manhattans most prestigious avenue, residents enjoy easy access to all major subway lines, the Theater District, Bryant Park, Whole Foods, and shopping and dining on Madison Avenue.  Private residence entrance, full service concierge, and maintenance staff available 24/7.</Description>
     </Descriptions>
     <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/08edc8/b11f08/4060d5/_MG_6696-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/08ef8b/a81f08/e2bac8/_MG_6702-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/08b173/871f08/de0766/_MG_6725-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/087a72/f31f08/73e66f/_MG_6741-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/089553/4a1f08/04f3cb/_MG_6731-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/089bea/791f08/9aaab9/_MG_6710-Edit-wm.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/082f41/8b1f08/dbcc1c/39-e-29-amenities-1.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/088c2f/341f08/72cb23/39-e-29-amenities-2.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/0884b8/3e1f08/07dda4/39-e-29-amenities-3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/08562b/431f08/24b2e5/39-e-29-amenities-4.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/58073f/089e0b/d11f08/82c03f/39-e-29-amenities-5.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/6b55ff/7a1e89/a13511/RE000137.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/7deaa3/bf1e6f/458719/RE000134.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/9ea0b1/981e6f/3c7a77/RE000133.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/8892ff/d31e6f/7be462/RE000127.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/bb40f8/fd1e6f/a7091e/RE000136.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/acab2f/551e89/650140/RE000132.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/c98586/f51e6f/9a2e08/RE000130.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/d8fd78/3b1e6f/a6b6f9/RE000129.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ada8/e56a59/1f1e6f/313c6d/RE000135.jpg</Photo>
     </Photos>
-    <Price>1650000</Price>
+    <Price>1695000</Price>
     <PriceCurrency>USD</PriceCurrency>
     <IsAuction>0</IsAuction>
     <Country>US</Country>
     <HideAddress>false</HideAddress>
     <Furnished>false</Furnished>
-    <Address>39 E 29TH ST</Address>
-    <PostalCode>10016</PostalCode>
+    <Address>400 5TH AVE</Address>
+    <PostalCode>10018</PostalCode>
     <State>NY</State>
     <City>NEW YORK</City>
     <Geolocation>
-      <Latitude>40.74435</Latitude>
-      <Longitude>-73.984222</Longitude>
+      <Latitude>40.75016</Latitude>
+      <Longitude>-73.983498</Longitude>
       <Accuracy>8</Accuracy>
     </Geolocation>
     <Bathrooms>1</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Daniel</FirstName>
+      <LastName>Chun</LastName>
+      <LandPhone>+1212-729-5712, Ext. 108</LandPhone>
+      <MobilePhone>+1908-227-6877</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>53cd894d14a64f65c5001d74</AgentId>
+      <AgentEmail>daniel@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/daniel-chun</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/53e4fb/1a14a6/4f326a/00000c/Daniel-Chun.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>2010</ConstructionYear>
+    <Reference>400 5TH AVEAPT 42B</Reference>
+    <ServiceCharge>1200</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>58c0e8e2edb8165cd62c</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2017-03-04T00:00:00.000Z</PublicationDate>
+    <Rooms>5</Rooms>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>109</LivingArea>
+    <Descriptions>
+      <Description languages="en">Amazing condo value on the 33rd floor with Chrysler Building views!&lt;br&gt;&lt;br&gt;Entering this home, you will find an enormous walk-in-closet perfect for tucking away all of your jackets, boots, and strollers.  The spacious living area has room for living, dining, and a play area.  More walk-in-closets line the hallway to your generously-sized bedrooms providing abundant sunlight, with a balcony off one of the bedrooms.&lt;br&gt;&lt;br&gt;Have it all with a smart reconfiguration to a full 3 bedroom / 2 bedroom plus home office (see alternate floor plans).  Take advantage of this opportunity to create your own 2-3 bedroom home!&lt;br&gt;&lt;br&gt;The Dag Hammarskjold Tower is a full-service, 24 hr doorman building. Common areas have recently undergone a transformation: Skyline Lounge, fitness room, rooftop swimming pool, and children's play area.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/f01ebc/e13654/1eb08e/240-e-47th-04.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/d55311/a3399e/777343/240-e-47th-01.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/be3fc7/30399e/b7856d/240-e-47th-05.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/ab9c9b/fc3654/edcea9/240-e-47th-02.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c6ad/5ac82f/48399e/a67984/view.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/406fd9/d1399e/afc7f0/240-e-47th-06.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/4c2bf5/073654/5811b5/240-e-47th-07.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c1c1/5316d8/113654/e7d14c/240-e-47th-08.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c79a/0bd2a0/977729/bdbf66/93ed913afa99ab8d8b37a07604a4e346.jpg</Photo>
+    </Photos>
+    <Price>1600000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>240 E 47TH ST</Address>
+    <PostalCode>10017</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.752861</Latitude>
+      <Longitude>-73.970398</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>1</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Kristen</FirstName>
+      <LastName>Suh</LastName>
+      <LandPhone>+1212-729-5712, Ext. 114</LandPhone>
+      <MobilePhone>+1347-913-2012</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>58238256a094a7386a06e84e</AgentId>
+      <AgentEmail>kristens@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/kristen-suh</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/582cea/1050a8/92077d/c370e1/Kristen-Suh-Sq.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>1983</ConstructionYear>
+    <Reference>240 E 47TH STAPT 33B</Reference>
+    <ServiceCharge>1326</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>58abdd902095a172a4d8</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2016-11-10T00:00:00.000Z</PublicationDate>
+    <Rooms>5</Rooms>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>0</LivingArea>
+    <Descriptions>
+      <Description languages="en">BACK ON THE MARKET -&lt;br&gt;&lt;br&gt;Maintenance only $1,559 per month&lt;br&gt;&lt;br&gt;Washer/Dryer in-unit&lt;br&gt;&lt;br&gt;Large, Sunny Master suite including two walk-in closets&lt;br&gt;&lt;br&gt;2 Storage spaces included&lt;br&gt;&lt;br&gt;No assessments or maintenance increases planned - major capital improvements completed 2 years ago&lt;br&gt;&lt;br&gt;Less than 1 block from 1,2,3 express train&lt;br&gt;&lt;br&gt;Accommodating co-op board&lt;br&gt;&lt;br&gt;Boutique building offering only 6 residences&lt;br&gt;&lt;br&gt;Owner occupied since 2005</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/0a7454/c91e6f/7bd123/_MG_8482-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/20db83/761e6f/f6cd0e/_MG_8461-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/30855c/641e6f/71c709/_MG_8492-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/40bc28/961e6f/0660dc/_MG_8505-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/4f9402/411e6f/c1776a/_MG_8504-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/5c08f5/1d1e89/af010b/_MG_8481-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/6d5454/751e89/d2a7e1/_MG_8517-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58ac55/8e688c/681e6f/4d199a/_MG_8530-Edit-wm.jpg</Photo>
+    </Photos>
+    <Price>1400000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>267 W 71ST ST</Address>
+    <PostalCode>10023</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.779041</Latitude>
+      <Longitude>-73.984222</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>2</Bathrooms>
     <Contact>
       <SiteAccountId>elegran</SiteAccountId>
       <CustomerType>Private</CustomerType>
@@ -698,8 +887,8 @@
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
     <ConstructionYear>1900</ConstructionYear>
-    <Reference>39 E 29TH STAPT 10B</Reference>
-    <ServiceCharge>815</ServiceCharge>
+    <Reference>267 W 71ST STAPT 2FR</Reference>
+    <ServiceCharge>1559</ServiceCharge>
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
@@ -842,7 +1031,7 @@
     <Bedrooms>1</Bedrooms>
     <LivingArea>63</LivingArea>
     <Descriptions>
-      <Description languages="en">Experience the height of NYC luxury in this exquisite building at 515 E 72nd. St. Located in the heart of the Upper East Side, only steps away from the 2nd Avenue subway, this building has all the best that NYC has to offer: luxury spa-like amenities, gorgeous interiors, and a coveted UES address.&lt;br&gt;&lt;br&gt;This south-facing 1 bedroom, 1 bath with 100 sq. ft balcony is move-in ready for an owner with discerning taste. The developer spared no expense to ensure this home boasts the finest finishes throughout. From the white Corian countertops/cabinets, Miele dishwasher, Liebherr refrigerator to the Piombo stone tiles, and Toto and Dornbracht fixtures in the bathroom every detail has been thoughtfully appointed. A visual treat, the apartment has walnut floors throughout with large, bright windows in each room, several spacious well-lit closets provide ample space for living and storage. Your full-size Bosch washer &amp; dryer is discreetly stored in an oversized closet to make laundry easy and out of sight.&lt;br&gt;&lt;br&gt;Come home to Manhattans first spa-inspired condominium with 40,000 sq. ft of amenities including a private park, indoor saltwater pool, hot tub, basketball, squash, racquetball, rock climbing wall, artist studios, and Jodis gym. To replenish yourself, the in-house spa offers massages, facials, and manicures adjacent to well-appointed locker rooms with male and female sauna and steam rooms.&lt;br&gt;&lt;br&gt;The level of service at 515 W 72nd will exceed your expectations with a 24/7 doorman and concierge, a complimentary breakfast each morning and an in-house valet to process your dry cleaning, and receive your deliveries. A parking garage is adjacent to the building.&lt;br&gt;&lt;br&gt;Pets are welcome.</Description>
+      <Description languages="en">Experience the height of NYC luxury in this exquisite building at 515 E 72nd. St. Located in the heart of the Upper East Side, only steps away from the 2nd Avenue subway, this building has all the best that NYC has to offer: luxury spa-like amenities, gorgeous interiors, and a coveted UES address.&lt;br&gt;This south-facing 1 bedroom, 1 bath with 100 sq. ft balcony is move-in ready for an owner with discerning taste. The developer spared no expense to ensure this home boasts the finest finishes throughout. From the white Corian countertops/cabinets, Miele dishwasher, Liebherr refrigerator to the Piombo stone tiles, and Toto and Dornbracht fixtures in the bathroom every detail has been thoughtfully appointed. A visual treat, the apartment has walnut floors throughout with large, bright windows in each room, several spacious well-lit closets provide ample space for living and storage. Your full-size Bosch washer &amp; dryer is discreetly stored in an oversized closet to make laundry easy and out of sight.&lt;br&gt;Come home to Manhattans first spa-inspired condominium with 40,000 sq. ft of amenities including a private park, indoor saltwater pool, hot tub, basketball, squash, racquetball, rock climbing wall, artist studios, and Jodis gym. To replenish yourself, the in-house spa offers massages, facials, and manicures adjacent to well-appointed locker rooms with male and female sauna and steam rooms.&lt;br&gt;The level of service at 515 W 72nd will exceed your expectations with a 24/7 doorman and concierge, a complimentary breakfast each morning and an in-house valet to process your dry cleaning, and receive your deliveries. A parking garage is adjacent to the building.&lt;br&gt;Pets are welcome.</Description>
     </Descriptions>
     <Photos>
       <Photo>https://images.datahubus.com/core_data/image/file/58a5c4/06ac83/271e89/b9c23a/_MG_0814-Edit-hi_final02.jpg</Photo>
@@ -899,38 +1088,40 @@
   </Advert>
   <Advert>
     <SiteAccountId>elegran</SiteAccountId>
-    <AdvertId>56b97aa715f997248228</AdvertId>
+    <AdvertId>58c77fec3976ef1357eb</AdvertId>
     <CustomerType>Private</CustomerType>
     <AdvertType>Sale</AdvertType>
     <GoodType>Flat</GoodType>
-    <PublicationDate>2016-02-08T00:00:00.000Z</PublicationDate>
+    <PublicationDate>2017-03-13T00:00:00.000Z</PublicationDate>
     <Rooms>4</Rooms>
-    <Bedrooms>1</Bedrooms>
+    <Bedrooms>2</Bedrooms>
     <LivingArea>0</LivingArea>
     <Descriptions>
-      <Description languages="en">East River views are enjoyed from the living room and dining room of this Junior 4 apartment currently for sale in 200 East End Avenue. The floor plan features a flexible layout that can be opened up for entertaining or closed off for a true 2 bedroom. The recently renovated windowed kitchen features granite countertops and stainless steel appliances. A covered terrace with direct water views is accessible off the living room via a sliding glass door which provides a natural extension of the entertaining space.&lt;br&gt;&lt;br&gt;This pet-friendly apartment is conveniently located across from Gracie Mansion, the East River Promenade, Asphalt Green, and the 2nd Avenue subway. Great access to Carl Shurz Park and neighborhood amenities such as swimming, soccer field's, dog runs and basketball courts. Residents of 200 East End Avenue have the modern comforts of a doorman, concierge, painter, porter, and handyman, in addition to the brand new laundry facility. The building features private garage spaces at low, resident-only pricing. Storage units are available for rent, and a state-of-the-art brand new gym. UTILITIES INCLUDED IN MAINTENANCE. Max Financing 65%</Description>
+      <Description languages="en">Enter through the generous foyer to view this lovely two-bedroom apartment that's flooded with natural light thanks to the wall of large windows in the living room. This home stays bright and airy as light streams through the windowed kitchen and bathrooms, as well as the double exposure windows in the master bedroom. Storage and organization will never be an issue with the abundant closet space in both the master bedroom and the secondary bedroom. Gas &amp; Electric included in the monthly maintenance. Washer and dryer can be added with board approval.&lt;br&gt;&lt;br&gt;The Manhasset is a classic NYC building, built by Joseph Wolf in 1899. It's a gorgeous, landmarked structure that has retained its pre-war charm while being fully restored in 2001 with new elevators and an impressive grand lobby. At the Manhasset, residents enjoy the benefits of a live-in super, video intercom system, laundry room, and bike room. &lt;br&gt;&lt;br&gt;Just steps away from Riverside park, excellent shops, restaurants and grocery stores and the local and express 1, 2, and 3 trains, the Manhasset is in the perfect NYC location.</Description>
     </Descriptions>
     <Photos>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b89/bd8079/507e3c/01183f/5.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b89/d16112/ac582c/926f17/1.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b89/e39f5b/db7e3c/3029eb/3.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b89/f4ae49/137e3c/ca1863/2.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b8a/0397c1/9d582c/f1dd1e/6.jpg</Photo>
-      <Photo>https://images.datahubus.com/core_data/image/file/581b8a/12862f/9d7e3c/c232be/4.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c815/a245de/713654/ead782/_MG_2441-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c815/bc034a/b83654/0357dc/_MG_2459-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c815/cbcc3f/de3654/289885/_MG_2427-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c815/db220b/01399e/ccd47c/_MG_2448-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c815/efc347/8b3654/7c672b/_MG_2478-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c816/02b135/f7399e/069548/_MG_2472-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c816/137068/663654/f44ad2/_MG_2484-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58c816/237aaa/2f399e/180945/_MG_2496-wm.jpg</Photo>
     </Photos>
-    <Price>799000</Price>
+    <Price>884000</Price>
     <PriceCurrency>USD</PriceCurrency>
     <IsAuction>0</IsAuction>
     <Country>US</Country>
     <HideAddress>false</HideAddress>
     <Furnished>false</Furnished>
-    <Address>200 E END AVE</Address>
-    <PostalCode>10128</PostalCode>
+    <Address>300 W 109TH ST</Address>
+    <PostalCode>10025</PostalCode>
     <State>NY</State>
     <City>NEW YORK</City>
     <Geolocation>
-      <Latitude>40.77734</Latitude>
-      <Longitude>-73.94352</Longitude>
+      <Latitude>40.803543</Latitude>
+      <Longitude>-73.967445</Longitude>
       <Accuracy>8</Accuracy>
     </Geolocation>
     <Bathrooms>1</Bathrooms>
@@ -938,23 +1129,84 @@
       <SiteAccountId>elegran</SiteAccountId>
       <CustomerType>Private</CustomerType>
       <CorporateName>Elegran Real Estate and Development</CorporateName>
-      <FirstName>Nick</FirstName>
-      <LastName>Anable</LastName>
-      <LandPhone>+1212-729-5712, Ext. 145</LandPhone>
-      <MobilePhone>+1831-320-3891</MobilePhone>
+      <FirstName>Nick </FirstName>
+      <LastName>Agostinelli</LastName>
+      <LandPhone>+1212-729-5712, Ext. 144</LandPhone>
+      <MobilePhone>+1347-618-1523</MobilePhone>
       <Email>info@elegran.com</Email>
-      <AgentId>530b7a4914a64fe879000084</AgentId>
-      <AgentEmail>nanable@elegran.com</AgentEmail>
-      <Website>https://www.elegran.com/agents/nick-anable</Website>
+      <AgentId>530b7a0814a64f4f660000a1</AgentId>
+      <AgentEmail>nagostinelli@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/nick-agostinelli</Website>
       <Address>353 Lexington Avenue</Address>
       <PostalCode>10016</PostalCode>
       <City>New York</City>
       <Country>US</Country>
-      <Photo>https://images.datahubus.com/core_data/image/file/5883a6/91d272/d4412d/a112fb/45a27fe0-9f14-4ca4-a48c-b508c73d9da2_nick-anable-sq.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/57fffe/52e7ba/8569c0/9c0526/NickA.jpg</Photo>
       <SpokenLanguages>English</SpokenLanguages>
     </Contact>
-    <ConstructionYear>1952</ConstructionYear>
-    <Reference>200 E END AVEAPT 4E</Reference>
-    <ServiceCharge>1873</ServiceCharge>
+    <ConstructionYear>1904</ConstructionYear>
+    <Reference>300 W 109TH STAPT 5K</Reference>
+    <ServiceCharge>1411</ServiceCharge>
+  </Advert>
+  <Advert>
+    <SiteAccountId>elegran</SiteAccountId>
+    <AdvertId>58b50afba5b717694b0c</AdvertId>
+    <CustomerType>Private</CustomerType>
+    <AdvertType>Sale</AdvertType>
+    <GoodType>Flat</GoodType>
+    <PublicationDate>2017-02-27T00:00:00.000Z</PublicationDate>
+    <Rooms>4</Rooms>
+    <Bedrooms>2</Bedrooms>
+    <LivingArea>67</LivingArea>
+    <Descriptions>
+      <Description languages="en">Take advantage of this rare opportunity to own a convertible 2 bedroom apartment with 11ft ceilings on one of the most coveted blocks Riverside Drive in Morningside Heights. This charming pre-war home has been renovated but still maintains its original character thanks to details like a beautiful decorative fireplace and delicate wall moldings. The apartments many windows provide lots of natural light along with charming garden views. There is new flooring throughout, and storage wont be an issue with the custom closet space. Fowler Court is an impeccably maintained building that includes laundry, a bike room, and a live-in resident manager.&lt;br&gt;&lt;br&gt;This apartment is steps away from the 1 train at 110th Street and a few blocks from the 116th station as well as Columbia University surrounded by great cafes, restaurants  (including Tom's and Friedmans), and shops. Come make this apartment your home and enjoy the added benefit of low monthlies.&lt;br&gt;&lt;br&gt;Please request showings 24 hours in advance. There are tenants living in the apartment until 7/31/2017.</Description>
+    </Descriptions>
+    <Photos>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/3af078/503654/00df5b/_MG_1041-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/47a0f5/853654/48be7e/_MG_1032-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/56997d/a53654/facdc9/_MG_1046-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/664841/7e399e/0a6fd4/_MG_1057-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/74041a/0c3654/451ebb/_MG_1052-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/8331ed/b9399e/0f0434/_MG_1068-Edit-wm.jpg</Photo>
+      <Photo>https://images.datahubus.com/core_data/image/file/58b597/8f124a/31399e/78de2c/_MG_1079-Edit-wm.jpg</Photo>
+    </Photos>
+    <Price>739000</Price>
+    <PriceCurrency>USD</PriceCurrency>
+    <IsAuction>0</IsAuction>
+    <Country>US</Country>
+    <HideAddress>false</HideAddress>
+    <Furnished>false</Furnished>
+    <Address>400 RIVERSIDE DR</Address>
+    <PostalCode>10025</PostalCode>
+    <State>NY</State>
+    <City>NEW YORK</City>
+    <Geolocation>
+      <Latitude>40.806221</Latitude>
+      <Longitude>-73.966972</Longitude>
+      <Accuracy>8</Accuracy>
+    </Geolocation>
+    <Bathrooms>1</Bathrooms>
+    <Contact>
+      <SiteAccountId>elegran</SiteAccountId>
+      <CustomerType>Private</CustomerType>
+      <CorporateName>Elegran Real Estate and Development</CorporateName>
+      <FirstName>Christa</FirstName>
+      <LastName>Chi</LastName>
+      <LandPhone>+1212-729-5712, Ext. 147</LandPhone>
+      <MobilePhone>+1917-741-5338</MobilePhone>
+      <Email>info@elegran.com</Email>
+      <AgentId>56e6e924cc6d135791356f67</AgentId>
+      <AgentEmail>christa@elegran.com</AgentEmail>
+      <Website>https://www.elegran.com/agents/christa-chi</Website>
+      <Address>353 Lexington Avenue</Address>
+      <PostalCode>10016</PostalCode>
+      <City>New York</City>
+      <Country>US</Country>
+      <Photo>https://images.datahubus.com/core_data/image/file/56f012/d35690/0f2b37/70a1d6/Christa_Chi_224x224.jpg</Photo>
+      <SpokenLanguages>English</SpokenLanguages>
+    </Contact>
+    <ConstructionYear>1908</ConstructionYear>
+    <Reference>400 RIVERSIDE DRAPT 5E</Reference>
+    <ServiceCharge>1030</ServiceCharge>
   </Advert>
 </Adverts>
