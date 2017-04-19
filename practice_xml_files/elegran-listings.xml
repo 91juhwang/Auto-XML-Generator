@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Listing>
+    <IdWeb>123</IdWeb>
+    <node3>
+      <node3_1>another string</node3_1>
+    </node3>
+    <node4 attribute="some attribute" attribute2="some attribute">with attributes</node4>
+    <selfclosing/>
+  </Listing>
+</root>

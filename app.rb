@@ -12,9 +12,10 @@ def listings
   curl.perform
   listings_json = JSON.parse(curl.body_str)['listings']
   listings_json.each do |listing|
-     # call api for the specific listing
+    # call api for the specific listing
     get_building_locations listing['building']['id']
     get_promo_listing listing['id']
+    # ap listing
 
     @listing_hash = {
       Advert: {
@@ -49,23 +50,26 @@ def listings
           SiteAccountId: 'elegran',
           CustomerType: 'Private',
           CorporateName: 'Elegran Real Estate and Development',
-          FirstName: @promo_listing_json[0]['refs'][0]['promotable_item']['first_name'],
-          LastName: @promo_listing_json[0]['refs'][0]['promotable_item']['last_name'],
-          LandPhone: '+1'+@promo_listing_json[0]['refs'][0]['promotable_item']['office_number'],
-          MobilePhone: '+1'+@promo_listing_json[0]['refs'][0]['promotable_item']['cell'],
           Email: 'info@elegran.com',
-          AgentId: @promo_listing_json[0]['refs'][0]['promotable_item']['id'],
-          AgentEmail: @promo_listing_json[0]['refs'][0]['promotable_item']['email'],
-          Website: "https://www.elegran.com/agents/#{@promo_listing_json[0]['refs'][0]['promotable_item']['slug']}",
           Address: '353 Lexington Avenue',
           PostalCode: '10016',
           City: 'New York',
           Country: 'US',
-          Photo: @promo_listing_json[0]['refs'][0]['promotable_item']['profile_thumbnail']['url'],
           SpokenLanguages: 'English'
         }
       }
     }
+    unless @promo_listing_json[0].nil?
+      @listing_hash[:Advert][:Contact][:FirstName] = @promo_listing_json[0]['refs'][0]['promotable_item']['first_name']
+      @listing_hash[:Advert][:Contact][:LastName] = @promo_listing_json[0]['refs'][0]['promotable_item']['last_name']
+      @listing_hash[:Advert][:Contact][:LandPhone] = @promo_listing_json[0]['refs'][0]['promotable_item']['office_number']
+      @listing_hash[:Advert][:Contact][:MobilePhone] = @promo_listing_json[0]['refs'][0]['promotable_item']['cell']
+      @listing_hash[:Advert][:Contact][:AgentId] = @promo_listing_json[0]['refs'][0]['promotable_item']['id']
+      @listing_hash[:Advert][:Contact][:AgentEmail] = @promo_listing_json[0]['refs'][0]['promotable_item']['email']
+      @listing_hash[:Advert][:Contact][:Website] = "https://www.elegran.com/agents/#{@promo_listing_json[0]['refs'][0]['promotable_item']['slug']}"
+      @listing_hash[:Advert][:Contact][:Photo] = @promo_listing_json[0]['refs'][0]['promotable_item']['url']
+    end
+
     if @building_json['year_build']
       @listing_hash[:Advert][:ConstructionYear] = @building_json['year_build']
     end
