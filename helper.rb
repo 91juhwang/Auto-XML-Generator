@@ -40,6 +40,13 @@ def three_mil_listings
   @listings_json = JSON.parse(curl.body_str)['listings']
 end
 
+# call each listing by iterating database stored ids. 
+def listing_xml(id)
+  curl = Curl::Easy.new("https://api.datahubus.com/v1/listings/#{id}?auth_token=#{ENV['AUTH_TOKEN']}")
+  curl.perform
+  @listing_json = JSON.parse(curl.body_str)['listing']
+end
+
 def generate_xml(data, parent)
   return if data.to_s.empty?
   return unless data.is_a?(Hash)
