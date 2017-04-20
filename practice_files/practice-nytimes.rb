@@ -55,7 +55,7 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
         else
           xml.SqFootAveragePrice (@listing_json['price'].to_i / (@listing_json['floor_space'].to_i * 0.092903).to_i).round
         end
-        xml.RealEstateTaxMonthly
+        xml.RealEstateTaxMonthly @listing_json['re_taxes'] ? @listing_json['re_taxes'].to_i : ''
         xml.RealEstateTaxYear
         xml.BuildingName @listing_json['building']['slug']
         xml.BuildingUnitsTotal
@@ -126,6 +126,18 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
         xml.CodeStyle
       end
     end
+  end
+end
+
+node = builder.doc.xpath('//listings').last
+Nokogiri::XML::Builder.with(node) do |xml|
+  xml.listing do
+    xml.james
+    xml.james
+    xml.james
+    xml.james
+    xml.james
+    xml.james
   end
 end
 

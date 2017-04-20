@@ -25,7 +25,7 @@
     <SqFeetInterior>433</SqFeetInterior>
     <SqFeetInteriorDisplay/>
     <SqFootAveragePrice>43868</SqFootAveragePrice>
-    <RealEstateTaxMonthly/>
+    <RealEstateTaxMonthly>6321</RealEstateTaxMonthly>
     <RealEstateTaxYear/>
     <BuildingName>the-plaza-residences</BuildingName>
     <BuildingUnitsTotal/>
@@ -181,5 +181,13 @@
     <CodePopularFeature/>
     <CodePropertyType>2</CodePropertyType>
     <CodeStyle/>
+  </listing>
+  <listing>
+    <james/>
+    <james/>
+    <james/>
+    <james/>
+    <james/>
+    <james/>
   </listing>
 </listings>
