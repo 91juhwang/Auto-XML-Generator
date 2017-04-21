@@ -47,7 +47,7 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
         else
           xml.SqFootAveragePrice (listing['price'].to_i / (listing['floor_space'].to_i * 0.092903).to_i).round
         end
-        xml.RealEstateTaxMonthly listing[:re_taxes] ? listing[:re_taxes] : ''
+        xml.RealEstateTaxMonthly listing['re_taxes'] ? listing['re_taxes'].to_i : ''
         xml.RealEstateTaxYear
         xml.BuildingName @building_json['slug']
         xml.BuildingUnitsTotal
@@ -107,11 +107,6 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
           xml.CodeBasement
           xml.CodeConstructionType
           xml.CodeCoolingType
-          if listing['sale_rental']['label'] == 'Rental'
-            @listing_hash[:CodeListingType] = 'R'
-          else
-            @listing_hash[:CodeListingType] = 'S'
-          end
           xml.CodeListingType listing['sale_rental']['label'] == 'Rental' ? 'R' : 'S'
           xml.CodeAdditionalListingType 2
           xml.CodeLotFeature
