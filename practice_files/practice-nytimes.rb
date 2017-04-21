@@ -6,7 +6,13 @@ require '../helper'
 require 'dotenv/load'
 
 # database stored id, 
-listing_id_arry = ['58e5d2c594d4f42342fb0d5b', '582ab7fce1fcf45b5e7621f4'] 
+listing_id_arry = [] 
+
+three_mil_listings
+@listings_json.each do |listing|
+  listing_id_arry << listing['id']
+end
+ap listing_id_arry
 
 # call each listing by iterating database stored ids. 
 def listing_xml(id)
