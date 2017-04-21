@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listings>
-  <listing>
-    <id>58e5d2c594d4f42342fb0d5b</id>
+  <Listing>
     <IdWeb>58e5d2c594d4f42342fb0d5b</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>1 CENTRAL PARK S</Address>
@@ -90,191 +89,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>582ab7fce1fcf45b5e7621f4</id>
-    <IdWeb>582ab7fce1fcf45b5e7621f4</IdWeb>
-    <IdAccount>11270</IdAccount>
-    <Address>26 BANK ST</Address>
-    <AddrDisplay>0bedrooms in 26 BANK ST</AddrDisplay>
-    <AddrCrossStreet>Bank St,Waverly Pl</AddrCrossStreet>
-    <AddrCity>NEW YORK</AddrCity>
-    <AddrState>NY</AddrState>
-    <AddrZip>10014</AddrZip>
-    <AddrCountry/>
-    <UnitAptId/>
-    <Price>19500000</Price>
-    <MonthlyCCMaintainence/>
-    <Bedroom/>
-    <BathsFull>0</BathsFull>
-    <BathsPartial/>
-    <LotAcreage/>
-    <LotSizeDisplay/>
-    <RoomsTotal>0</RoomsTotal>
-    <Stories/>
-    <BuiltYear/>
-    <SqFeetInterior>0</SqFeetInterior>
-    <SqFeetInteriorDisplay/>
-    <SqFootAveragePrice/>
-    <RealEstateTaxMonthly/>
-    <RealEstateTaxYear/>
-    <BuildingName>26-bank-st</BuildingName>
-    <BuildingUnitsTotal/>
-    <BuildingFloorsTotal/>
-    <CommentsLong>Bountiful Elegance. Located on the most desirable block in Greenwich Village, this extraordinary single family home offers everything one dreams of in a Village house. Celebrated West Village Block, exquisite scale, flawless condition, suffused with light, three south facing terraces and tamed landscaped gardens both north and south. This is a singular and exceptional offering.&lt;br&gt;&lt;br&gt;Bathed in sunlight this gloriously sunny home was designed by noted architect Basil Walter and is an enchanting mix of grand and practical; open plan and intimate; English and American; distinguished and whimsical. Very rare is the intelligence and warmth that has gone into its creation.&lt;br&gt;&lt;br&gt;As you enter thru the front garden and up the stoop you are welcomed into a fabulous grand open parlor with wood burning fireplace and floor to ceiling windows and doors that open onto the south facing terrace overlooking the garden. On this floor there is also formal entry hall, closets, a powder room and a stunning sitting room lined with seventeenth-century wood paneling and floor to ceiling windows overlooking the tree-lined street. An extraordinary feature of the house is the fabulous sweeping elliptical stair that bathes the house in light from above and creates a graceful flow throughout.&lt;br&gt;&lt;br&gt;The garden level offers a family room overlooking the front garden, an inviting dining room and delightful family chef's kitchen with a wall of glass doors opening onto the verdant south facing garden.&lt;br&gt;&lt;br&gt;On the upper floors there is a divine and peaceful master suite with a wood burning fireplace and a wonderful south terrace, 3 marvelous bedrooms and 2 additional baths.&lt;br&gt;&lt;br&gt;Perched on top is an incredible glass and steel atelier addition. This inspirational studio/ office / library, was inspired by Maison de Verre in Paris. The south wall cantilevers open with the touch of an extraordinary hand crank (easily manipulated) giving on to a third south facing terrace. In addition there is a dramatic steel stair that leads to the very top with unmatched views of the landmarked West Village.&lt;br&gt;&lt;br&gt;This home has been painstakingly built by artisans and great care has been taken to every details of the house. The history and integrity of this house remain, enhanced by the addition of state of the art modern day amenities and superb condition. This Marvelous home was featured in "House and Garden" in 2015.&lt;br&gt;&lt;br&gt;http://www.houseandgarden.co.uk/interiors/real-homes/town-house-manhattans-west-village</CommentsLong>
-    <OpenHouse1Date/>
-    <OpenHouse1Time/>
-    <OpenHouse2Date/>
-    <OpenHouse2Time/>
-    <SchoolDistrictId/>
-    <SchoolElementary/>
-    <SchoolMiddle/>
-    <SchoolHigh/>
-    <Photo1>https://images.datahubus.com/core_data/image/file/58f71f/be5112/8e44a8/1caf82/f4de402e08e7d1f97995a104eb4fd07f.jpg</Photo1>
-    <Photo2>https://images.datahubus.com/core_data/image/file/58f71f/bef74a/bf44a8/604305/393211648f17ee0fb3b9c23637aeb4a5.jpg</Photo2>
-    <Photo3>https://images.datahubus.com/core_data/image/file/582b1f/b4dd40/08522e/3ce404/d250ade220334e4df0c934b1708f6b86.jpg</Photo3>
-    <Photo4>https://images.datahubus.com/core_data/image/file/582b1f/b4e2eb/2c522e/0877bc/525e0c985421f241c4f8206c97fc91ca.jpg</Photo4>
-    <Photo5>https://images.datahubus.com/core_data/image/file/582b1f/b57857/37522e/4cf2c6/88ac54d51d0800850788a399814a706f.jpg</Photo5>
-    <Photo6>https://images.datahubus.com/core_data/image/file/582b1f/b506fd/fb522e/0a6ebc/cad6c3be16a9a6da0dd46e3297f6c438.jpg</Photo6>
-    <Photo7>https://images.datahubus.com/core_data/image/file/582b1f/b57f38/6e522e/4d73b1/3f5767a88e4394c8cf04680883d9cf01.jpg</Photo7>
-    <Photo8>https://images.datahubus.com/core_data/image/file/582b1f/b6da80/7d522e/f7a784/23922358d761f7d6811e43fc4e79cf35.jpg</Photo8>
-    <Photo9>https://images.datahubus.com/core_data/image/file/582b1f/b68cde/00522e/e7d8d1/05449d0fdb09a276846e1706009713ed.jpg</Photo9>
-    <Photo10>https://images.datahubus.com/core_data/image/file/582b1f/b6173e/9a522e/897b2b/ed798399da1fb9fda09f5d77ea770524.jpg</Photo10>
-    <Photo11>https://images.datahubus.com/core_data/image/file/582b1f/b66146/95522e/d92140/1492a72b2ab2001a1a3099afb6930a38.jpg</Photo11>
-    <Photo12>https://images.datahubus.com/core_data/image/file/582b1f/b7bf20/b5522e/4fe9a5/4e10773373d497653deb425c065af8ae.jpg</Photo12>
-    <Photo13>https://images.datahubus.com/core_data/image/file/582b1f/b7851d/e9522e/dfecd1/1006487c969c02943765d2d0d3283137.jpg</Photo13>
-    <Photo14>https://images.datahubus.com/core_data/image/file/582b1f/b84056/dd522e/865dea/2a441e61d2fe262a7dd3516326e54ad1.jpg</Photo14>
-    <Photo15>https://images.datahubus.com/core_data/image/file/582b1f/b82764/49522e/f1a5b9/857219516f31f489e05342779e9d7a50.jpg</Photo15>
-    <Photo16>https://images.datahubus.com/core_data/image/file/582b1f/b88920/8b522e/eaaabe/df4ede505c287d1a636f98babce17cc9.jpg</Photo16>
-    <Photo17>https://images.datahubus.com/core_data/image/file/582b1f/b95c1d/97522e/37b84f/4be28651354902492fcf64fece05bb25.jpg</Photo17>
-    <Photo18/>
-    <Photo19/>
-    <Photo20/>
-    <Floorplan1/>
-    <Floorplan2/>
-    <Floorplan3/>
-    <Floorplan4/>
-    <Floorplan5/>
-    <VirtualTour/>
-    <VideoTour/>
-    <AdvertiserHomePageURL>www.elegran.com</AdvertiserHomePageURL>
-    <AdvertiserListingURL>www.listings/582ab7fce1fcf45b5e7621f4</AdvertiserListingURL>
-    <AdvertiserLogo>http://files.elegran.com/lob/elegran-logo.svg</AdvertiserLogo>
-    <AdvertiserName>Elegran Real Estate and Development</AdvertiserName>
-    <Agent1Name/>
-    <Agent1Email/>
-    <Agent1PhonePrimary/>
-    <Agent1Photo/>
-    <Agent2Name/>
-    <Agent2Email/>
-    <Agent2PhonePrimary/>
-    <Agent2Photo/>
-    <CodeFeatured/>
-    <CodeBasement/>
-    <CodeConstructionType/>
-    <CodeCoolingType/>
-    <CodeListingType>S</CodeListingType>
-    <CodeAdditionalListingType>2</CodeAdditionalListingType>
-    <CodeLotFeature/>
-    <CodeParking/>
-    <CodePets/>
-    <CodePopularFeature/>
-    <CodePropertyType>2</CodePropertyType>
-    <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58e5d2c594d4f42342fb0d5b</id>
-    <IdWeb>58e5d2c594d4f42342fb0d5b</IdWeb>
-    <IdAccount>11270</IdAccount>
-    <Address>1 CENTRAL PARK S</Address>
-    <AddrDisplay>4bedrooms in 1 CENTRAL PARK S</AddrDisplay>
-    <AddrCrossStreet>Central Park S,5th Ave</AddrCrossStreet>
-    <AddrCity>NEW YORK</AddrCity>
-    <AddrState>NY</AddrState>
-    <AddrZip>10019</AddrZip>
-    <AddrCountry/>
-    <UnitAptId>APT MANSION201</UnitAptId>
-    <Price>18995000</Price>
-    <MonthlyCCMaintainence>5061</MonthlyCCMaintainence>
-    <Bedroom>4</Bedroom>
-    <BathsFull>4</BathsFull>
-    <BathsPartial/>
-    <LotAcreage/>
-    <LotSizeDisplay/>
-    <RoomsTotal>8</RoomsTotal>
-    <Stories/>
-    <BuiltYear/>
-    <SqFeetInterior>433</SqFeetInterior>
-    <SqFeetInteriorDisplay/>
-    <SqFootAveragePrice>43868</SqFootAveragePrice>
-    <RealEstateTaxMonthly>6321</RealEstateTaxMonthly>
-    <RealEstateTaxYear/>
-    <BuildingName>the-plaza-residences</BuildingName>
-    <BuildingUnitsTotal/>
-    <BuildingFloorsTotal/>
-    <CommentsLong>Privacy, Exclusivity, and one of a kind Legacy&lt;br&gt;&lt;br&gt;Mansion 201 at the Plaza Residences is the only home in the storied building to boast private elevator access and a personal grand staircase.  This trophy 4,665 square foot home is in triple mint condition with 3 bedrooms plus staff room and 4 bathrooms.  The home also features Central Park views from every window and antique limed French oak herringbone and wide plank flooring.&lt;br&gt;&lt;br&gt;Whether you're a seasoned chef or just love to entertain, The Mansion boasts a refined, custom eat-in kitchen with plenty of room to prep for a party. The kitchen features Nero Marquita stone countertops, gorgeous custom cabinetry, and a Mosaic Calacatta marble backsplash. Every feature in the home has been carefully designed including impeccable period moldings and fine woodwork all crafted and installed by the world renowned Clive Christian. The residence also comes equipped with Castlewood soundproof windows and Quiet Rock insulation making the residence exceedingly quiet.&lt;br&gt;&lt;br&gt;All the residence's high-end furnishings, including furniture by Armani/Casa, Poltrona Frau, and Clive Christian, Bang &amp; Olufsen audio-visual equipment and gorgeous artwork, rugs and draperies are part of the purchase, making this a true turn-key pied-a-terre or home.  In addition to the vast range of white-glove services the building offers such as in-room dining, maid service, concierge, and 24-hour doorman, Condo owners have full access to The Plaza Hotel's vast amenities: Warren Tricomi Salon, Palestra Fitness Center, The Plaza Food Hall by Todd English, Palm Court Restaurant, Rose Bar and The Champagne Bar. Pets and pied-a-terre's are welcome.&lt;br&gt;&lt;br&gt;Living room and master bedroom photos are virtually staged.</CommentsLong>
-    <OpenHouse1Date/>
-    <OpenHouse1Time/>
-    <OpenHouse2Date/>
-    <OpenHouse2Time/>
-    <SchoolDistrictId/>
-    <SchoolElementary/>
-    <SchoolMiddle/>
-    <SchoolHigh/>
-    <Photo1>https://images.datahubus.com/core_data/image/file/58e649/353beb/b60e38/1363fb/watermarked1.jpg</Photo1>
-    <Photo2>https://images.datahubus.com/core_data/image/file/58e649/529edf/620e38/bed848/1CentralParkS201-14.jpg</Photo2>
-    <Photo3>https://images.datahubus.com/core_data/image/file/58e649/6903b5/490e37/f9a02e/1CentralParkS201-13.jpg</Photo3>
-    <Photo4>https://images.datahubus.com/core_data/image/file/58e649/7e6b3c/3e0e38/deac50/1CentralParkS201-12.jpg</Photo4>
-    <Photo5>https://images.datahubus.com/core_data/image/file/58e649/9103c0/940e37/4c0248/watermakred2.jpg</Photo5>
-    <Photo6>https://images.datahubus.com/core_data/image/file/58e649/af45e1/650e38/08b17b/1CentralParkS201-36.jpg</Photo6>
-    <Photo7>https://images.datahubus.com/core_data/image/file/58e649/d5f8d4/8b0e38/ed70a2/1CentralParkS201-44.jpg</Photo7>
-    <Photo8>https://images.datahubus.com/core_data/image/file/58e649/e51070/a70e37/66181a/2.jpg</Photo8>
-    <Photo9>https://images.datahubus.com/core_data/image/file/58e649/f34782/5f0e37/db1cee/1.jpg</Photo9>
-    <Photo10>https://images.datahubus.com/core_data/image/file/58e64a/130c30/450e37/414389/1CentralParkS201-34.jpg</Photo10>
-    <Photo11>https://images.datahubus.com/core_data/image/file/58e64a/23ca46/e00e38/32beb1/1CentralParkS201-04.jpg</Photo11>
-    <Photo12>https://images.datahubus.com/core_data/image/file/58e64a/370c5e/b40e37/f487cc/1CentralParkS201-03.jpg</Photo12>
-    <Photo13/>
-    <Photo14/>
-    <Photo15/>
-    <Photo16/>
-    <Photo17/>
-    <Photo18/>
-    <Photo19/>
-    <Photo20/>
-    <Floorplan1/>
-    <Floorplan2/>
-    <Floorplan3/>
-    <Floorplan4/>
-    <Floorplan5/>
-    <VirtualTour/>
-    <VideoTour/>
-    <AdvertiserHomePageURL>www.elegran.com</AdvertiserHomePageURL>
-    <AdvertiserListingURL>www.listings/58e5d2c594d4f42342fb0d5b</AdvertiserListingURL>
-    <AdvertiserLogo>http://files.elegran.com/lob/elegran-logo.svg</AdvertiserLogo>
-    <AdvertiserName>Elegran Real Estate and Development</AdvertiserName>
-    <Agent1Name>Chris Fry</Agent1Name>
-    <Agent1Email>cfry@elegran.com</Agent1Email>
-    <Agent1PhonePrimary>732-963-7080</Agent1PhonePrimary>
-    <Agent1Photo>https://images.datahubus.com/core_data/image/file/53e38c/0e14a6/4fb5c2/000a07/Unknown.jpeg</Agent1Photo>
-    <Agent2Name/>
-    <Agent2Email/>
-    <Agent2PhonePrimary/>
-    <Agent2Photo/>
-    <CodeFeatured/>
-    <CodeBasement/>
-    <CodeConstructionType/>
-    <CodeCoolingType/>
-    <CodeListingType>S</CodeListingType>
-    <CodeAdditionalListingType>2</CodeAdditionalListingType>
-    <CodeLotFeature/>
-    <CodeParking/>
-    <CodePets/>
-    <CodePopularFeature/>
-    <CodePropertyType>10</CodePropertyType>
-    <CodeStyle/>
-  </listing>
-  <listing>
-    <id>5892c431faae1d3a8e8dfb96</id>
+  </Listing>
+  <Listing>
     <IdWeb>5892c431faae1d3a8e8dfb96</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>147 E 63RD ST</Address>
@@ -363,9 +179,8 @@
     <CodePopularFeature/>
     <CodePropertyType>2</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58c0e8e19f9ed0251ac306be</id>
+  </Listing>
+  <Listing>
     <IdWeb>58c0e8e19f9ed0251ac306be</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>45 W 67TH ST</Address>
@@ -454,9 +269,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58e48158a0fad148146ec5ec</id>
+  </Listing>
+  <Listing>
     <IdWeb>58e48158a0fad148146ec5ec</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>25 Central Park West</Address>
@@ -545,9 +359,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58db469fb93e97241f8693b5</id>
+  </Listing>
+  <Listing>
     <IdWeb>58db469fb93e97241f8693b5</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>200 E 69TH ST</Address>
@@ -636,9 +449,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58e4970ddbc1824ba114258b</id>
+  </Listing>
+  <Listing>
     <IdWeb>58e4970ddbc1824ba114258b</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>402 E 90TH ST</Address>
@@ -727,9 +539,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>54ffccb8d5059b2d19c452a9</id>
+  </Listing>
+  <Listing>
     <IdWeb>54ffccb8d5059b2d19c452a9</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>15 BROAD ST</Address>
@@ -818,9 +629,8 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
-  <listing>
-    <id>58e480f41c39706651b516f6</id>
+  </Listing>
+  <Listing>
     <IdWeb>58e480f41c39706651b516f6</IdWeb>
     <IdAccount>11270</IdAccount>
     <Address>101 West 24th Street</Address>
@@ -909,7 +719,7 @@
     <CodePopularFeature/>
     <CodePropertyType>10</CodePropertyType>
     <CodeStyle/>
-  </listing>
+  </Listing>
   <listing>
     <james/>
     <james/>

@@ -6,7 +6,7 @@ require '../helper'
 require 'dotenv/load'
 
 # database stored id, 
-listing_id_arry = [] 
+listing_id_arry = []
 
 three_mil_listings
 @listings_json.each do |listing|
@@ -26,12 +26,12 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
   xml.send('listings') do
     listing_id_arry.each do |id|
       listing_xml(id)
-      xml.listing do
-        xml.id @listing_json['id']
+      xml.Listing do
         xml.IdWeb @listing_json['id']
         xml.IdAccount '11270'
         xml.Address @listing_json['location']['address']
         xml.AddrDisplay "#{@listing_json['no_of_bedrooms'].to_i}bedrooms in #{@listing_json['location']['address']}"
+        ap @listing_json['location']['cross_streets']
         xml.AddrCrossStreet @listing_json['location']['cross_streets'].nil? ? '' : "#{@listing_json['location']['cross_streets'][0]},#{@listing_json['location']['cross_streets'][1]}"
         xml.AddrCity @listing_json['location']['city']
         xml.AddrState @listing_json['location']['state']
@@ -135,17 +135,17 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
   end
 end
 
-node = builder.doc.xpath('//listings').last
-Nokogiri::XML::Builder.with(node) do |xml|
-  xml.listing do
-    xml.james
-    xml.james
-    xml.james
-    xml.james
-    xml.james
-    xml.james
-  end
-end
+# node = builder.doc.xpath('//listings').last
+# Nokogiri::XML::Builder.with(node) do |xml|
+#   xml.listing do
+#     xml.james
+#     xml.james
+#     xml.james
+#     xml.james
+#     xml.james
+#     xml.james
+#   end
+# end
 
 builder2 = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') do |xml|
   xml.send('root') do
