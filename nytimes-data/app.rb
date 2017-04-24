@@ -71,12 +71,12 @@ builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
           end
         end
         5.times do |i|
-          if listing['floorplan'].nil?
+          if listing['floor_plans'][i].nil?
             floorplan = 'Floorplan' + (i+1).to_s
             xml.send(floorplan)
           else
             floorplan = 'Floorplan' + (i+1).to_s
-            xml.send(floorplan, listing['floorplan'][i]['url'])
+            xml.send(floorplan, listing['floor_plans'][i]['url'])
           end
         end
         xml.VirtualTour
